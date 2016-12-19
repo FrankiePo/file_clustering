@@ -13,7 +13,9 @@
                     method: "GET"
                 };
                 $http(request).then(function(res) {
-                    $rootScope.items = res.data.items;
+                    $rootScope.items = res.data.items.filter(function(item) {
+                        return item.geo;
+                    });
                     $rootScope.titles = res.data.titles;
                 });
             };
