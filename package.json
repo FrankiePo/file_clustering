@@ -1,0 +1,25 @@
+{
+  "name": "file-clustering",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrankiePo/file_clustering.git"
+  },
+  "author": "Sergey Koshechkin (https://github.com/FrankiePo)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FrankiePo/file_clustering/issues"
+  },
+  "homepage": "https://github.com/FrankiePo/file_clustering#readme",
+  "dependencies": {
+    "angular": "^1.6.0",
+    "ngmap": "^1.17.8"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
