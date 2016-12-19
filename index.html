@@ -9,9 +9,12 @@
     <script src="js/app.js"></script>
 </head>
 <body ng-app="FileClustering" ng-controller="MapController">
-    <ng-map
-            zoom="2"
-            center="[43.6650000, -79.4103000]"
-    ></ng-map>
+    <ng-map zoom="2" center="[43.6650000, -79.4103000]" style="height: 80vh; width: 100%">
+        <custom-marker position="[{{item.geo[0]}}, {{item.geo[1]}}]" ng-repeat="item in items">
+            <div class="cm">
+                position:<br>
+            </div>
+        </custom-marker>
+    </ng-map>
 </body>
 </html>
