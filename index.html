@@ -3,18 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <title>File Clustering</title>
-    <script src="https://maps.google.com/maps/api/js?key=AIzaSyAsalgbJucDeQO7I-IKA10xxcLFeWeW8O4"></script>
-    <script src="libs/angular.min.js"></script>
-    <script src="libs/ng-map.min.js"></script>
-    <script src="js/app.js"></script>
+    <script type="text/javascript" src="https://maps.google.com/maps/api/js?key=AIzaSyAsalgbJucDeQO7I-IKA10xxcLFeWeW8O4"></script>
+    <script type="text/javascript" src="libs/markerclusterer.min.js"></script>
+    <script type="text/javascript" src="libs/angular.min.js"></script>
+    <script type="text/javascript" src="libs/ng-map.min.js"></script>
+    <script type="text/javascript" src="js/app.js"></script>
 </head>
 <body ng-app="FileClustering" ng-controller="MapController">
-    <ng-map zoom="2" center="[43.6650000, -79.4103000]" style="height: 80vh; width: 100%">
-        <custom-marker position="[{{item.geo[0]}}, {{item.geo[1]}}]" ng-repeat="item in items">
-            <div class="cm">
-                position:<br>
-            </div>
-        </custom-marker>
-    </ng-map>
+    <ng-map zoom="2" center="[43.6650000, -79.4103000]" style="height: 80vh; width: 100%"></ng-map>
 </body>
 </html>
