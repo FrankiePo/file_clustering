@@ -25,6 +25,7 @@
                     position: new google.maps.LatLng(item.geo[0], item.geo[1]),
                     title: item.file
                 });
+                $scope.bounds.extend(marker.getPosition());
                 return marker;
             };
             $scope.initMarkerClusterer = function () {
@@ -36,7 +37,10 @@
             };
             NgMap.getMap().then(function(map) {
                 $scope.map = map;
+                $scope.bounds = new google.maps.LatLngBounds();
                 $scope.initMarkerClusterer();
+                $scope.map.setCenter($scope.bounds.getCenter());
+                $scope.map.fitBounds($scope.bounds);
             });
     }]);
 }) (angular);
