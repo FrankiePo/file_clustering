@@ -17,6 +17,7 @@
   "homepage": "https://github.com/FrankiePo/file_clustering#readme",
   "dependencies": {
     "angular": "^1.6.0",
+    "js-marker-clusterer": "^1.0.0",
     "ngmap": "^1.17.8"
   },
   "devDependencies": {},
