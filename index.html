@@ -17,6 +17,15 @@
     <rzslider rz-slider-model="slider.from"
               rz-slider-high="slider.to"
               rz-slider-options="slider.options"></rzslider>
-    <ng-map zoom="2" center="[43.6650000, -79.4103000]" style="height: 80vh; width: 100%"></ng-map>
+    <ng-map zoom="2" center="[43.6650000, -79.4103000]" style="height: 80vh; width: 100%">
+        <custom-marker position="[{{p[0]}}, {{p[1]}}]" ng-repeat="p in vm.positions">
+            <div class="cm">
+                position:<br>
+                {{p[0]}}<br>
+                {{p[1]}}
+            </div>
+        </custom-marker>
+    </ng-map>
+    {{filtered_items.length}}
 </body>
 </html>

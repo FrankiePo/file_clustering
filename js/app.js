@@ -1,25 +1,23 @@
-/**
- * Created by frankiepo on 20/12/2016.
- */
-(function(angular) {
+(function(angular, google) {
     "use strict";
     var app = angular.module('FileClustering', ['ngMap', 'rzModule']);
 
     app.controller('MapController', ['NgMap', '$scope', '$rootScope', '$http',
         function(NgMap, $scope, $rootScope, $http) {
-            $scope.load_items = function () {
-                var request = {
-                    url: 'htc_one_data.json',
-                    method: "GET"
-                };
-                $http(request).then(function(res) {
-                    $rootScope.items = res.data.items.filter(function(item) {
-                        return item.geo;
-                    });
-                    $rootScope.titles = res.data.titles;
+            $scope.loadItems = function () {
+                $http.get('htc_one_data.json').then(
+                    function successCallback (res) {
+                        $rootScope.items = res.data.items.filter(function(item) {
+                            return item.geo;
+                        });
+                        filterItems();
+                        $rootScope.titles = res.data.titles;
+                    }, function errorCallback (res) {
+                        console.error("Can't retrieve data set");
+                        console.error(res);
                 });
             };
-            $scope.load_items();
+            $scope.loadItems();
             $scope.createMarkerForItem = function (item) {
                 var marker = new google.maps.Marker({
                     position: new google.maps.LatLng(item.geo[0], item.geo[1]),
@@ -43,9 +41,9 @@
                 $scope.map.fitBounds($scope.bounds);
             });
             /* Slider initialization */
-            var start = new Date(2011, 2, 5);
-            var end   = new Date(2011, 5, 5);
-            var dr    = moment.range(start, end);
+            var start = moment("2013-07-10 14:59:24+00:00"),
+                end   = moment("2014-06-01 00:19:14+00:00"),
+                dr    = moment.range(start, end);
 
             var dates = dr.toArray('days');
 
@@ -72,5 +70,20 @@
                     }
                 }
             };
+
+            /* Filter */
+            function filterItems() {
+                $scope.filtered_items = $scope.items.filter(function(item) {
+                    var itemMoment = moment(item.timestamp),
+                        fromSliderMoment = moment(dates[$scope.slider.from]),
+                        toSliderMoment = moment(dates[$scope.slider.to]);
+                    return itemMoment >= fromSliderMoment && itemMoment <= toSliderMoment;
+                });
+            }
+            function onSliderUpdate() {
+                return $scope.items && filterItems();
+            }
+            $scope.$watch('slider.from', onSliderUpdate);
+            $scope.$watch('slider.to', onSliderUpdate);
     }]);
-}) (angular);
+}) (angular, google);
