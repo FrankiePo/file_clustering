@@ -43,18 +43,32 @@
                 $scope.map.fitBounds($scope.bounds);
             });
             /* Slider initialization */
-            var dates = [];
-            for (var i = 1; i <= 31; i++) {
-                dates.push(new Date(2016, 7, i));
-            }
+            var start = new Date(2011, 2, 5);
+            var end   = new Date(2011, 5, 5);
+            var dr    = moment.range(start, end);
+
+            var dates = dr.toArray('days');
+
             $scope.slider = {
-                value: dates[0], // or new Date(2016, 7, 10) is you want to use different instances
+                from: 1,
+                to: dates.length - 2,
                 options: {
+                    bindIndexForStepsArray: true,
                     stepsArray: dates,
-                    translate: function (date) {
-                        if (date != null)
-                            return date.toDateString();
-                        return '';
+                    translate: function(index, sliderId, label) {
+                        var date = dates[index].format("DD.MM.YYYY");
+                        switch (label) {
+                            case 'floor':
+                                return '<b>Min date:</b> ' + date;
+                            case 'ceil':
+                                return '<b>Max date:</b> ' + date;
+                            case 'model':
+                                return '<b>From date:</b> ' + date;
+                            case 'high':
+                                return '<b>To date:</b> ' + date;
+                            default:
+                                return date;
+                        }
                     }
                 }
             };
