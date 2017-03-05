@@ -8,8 +8,18 @@
     <script type="text/javascript" src="libs/angular.min.js"></script>
     <script type="text/javascript" src="libs/ng-map.min.js"></script>
     <script type="text/javascript" src="js/app.js"></script>
+    <style>
+        .search-input {
+            width: 50%;
+            margin-bottom: 15px;
+            margin-top: 7px;
+            font-size: 23px;
+            padding: 7px 7px 7px 7px;
+        }
+    </style>
 </head>
 <body ng-app="FileClustering" ng-controller="MapController">
+    <input class="search-input" placeholder="Type to search" ng-model="search">
     <ng-map zoom="2" center="[43.6650000, -79.4103000]" style="height: 80vh; width: 100%"></ng-map>
 </body>
 </html>
