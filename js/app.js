@@ -5,7 +5,7 @@
     "use strict";
     const app = angular.module('FileClustering', ['ngMap']);
     app.factory('Items', ['$http', function($http) {
-        const request = $http.get('htc_one_data.json');
+        const request = $http.get('photos.json');
         return {
             getItems: () => request.then(res => res.data.items),
             getTitles: () => request.then(res => res.data.titles)
@@ -15,7 +15,6 @@
         mcOptions: {
             imagePath: 'https://cdn.rawgit.com/googlemaps/js-marker-clusterer/gh-pages/images/m'
         },
-        thumbnailsPath: (filename) => `images/thumbnails/thumbnail_50_50_${filename}`,
     });
     app.controller('MapController', ['NgMap', 'Items', 'MapCfg', '$scope',
         function(NgMap, Items, MapCfg, $scope) {
@@ -26,15 +25,16 @@
                 $scope.$watchGroup(['items', 'searchString'], function (newValues, oldValues, scope) {
                     if (!scope.items) return;
                     const withGeo = item => item.geo;
-                    const withString = item => (!scope.searchString) ? true : item.file.includes(scope.searchString);
+                    const withTag = item => (!scope.searchString) ? true : item.tags
+                            .some(tag => tag.includes(scope.searchString));
                     const createMarker = item => new google.maps.Marker({
                         position: new google.maps.LatLng(item.geo[0], item.geo[1]),
                         title: item.file,
-                        icon: MapCfg.thumbnailsPath(item.file),
+                        icon: item.thumbnail,
                     });
-                    scope.markers = scope.items
+                    scope.filteredItems = scope.items.filter(withTag);
+                    scope.markers = scope.filteredItems
                         .filter(withGeo)
-                        .filter(withString)
                         .map(createMarker);
                 });
                 $scope.$watch('markers', function(newValues, oldValues, scope) {
