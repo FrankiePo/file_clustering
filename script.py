@@ -156,7 +156,7 @@ res_json = {
 
 i = 0
 homedir = "/Users/frankiepo/Projects/file_clustering/src"
-for root, dirs, files in os.walk(homedir + "/images/test_photos/"):
+for root, dirs, files in os.walk(homedir + "/images/htc_one/"):
     # for i in range(8147):
     # for i in range(57):
     for file in files:
@@ -187,6 +187,5 @@ for root, dirs, files in os.walk(homedir + "/images/test_photos/"):
             res_json['items'].append(data)
             i += 1
             print i
-
-with io.open('photos.json', 'w', encoding='utf-8') as f:
-    f.write(json.dumps(res_json, ensure_ascii=False, indent=4, sort_keys=True))
+            with io.open('photos.json', 'w', encoding='utf-8') as f:
+                f.write(json.dumps(res_json, ensure_ascii=False, indent=4, sort_keys=True))
