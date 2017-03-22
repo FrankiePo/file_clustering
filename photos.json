@@ -29,7 +29,7 @@
                 "полоса", 
                 "знак"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-07-10 18.59.35.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-07-10 18.59.35.jpg", 
             "timestamp": "1373453964", 
             "type": "image"
         }, 
@@ -62,7 +62,7 @@
                 "информация", 
                 "символ"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-07-12 16.54.27.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-07-12 16.54.27.jpg", 
             "timestamp": "1373619265", 
             "type": "image"
         }, 
@@ -92,7 +92,7 @@
                 "ехать", 
                 "мегаполис"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-07-14 18.59.28.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-07-14 18.59.28.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -122,7 +122,7 @@
                 "нет человек", 
                 "портрет"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-07-14 18.59.56.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-07-14 18.59.56.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -152,7 +152,7 @@
                 "дорога", 
                 "развлечение"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-07-14 18.59.58.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-07-14 18.59.58.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -182,7 +182,7 @@
                 "улица", 
                 "сломанный"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-07-14 19.00.44.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-07-14 19.00.44.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -212,7 +212,7 @@
                 "дождь", 
                 "шоу"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-07-14 19.00.47.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-07-14 19.00.47.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -242,7 +242,7 @@
                 "дневной свет", 
                 "ретро"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-07-14 19.00.56.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-07-14 19.00.56.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -272,7 +272,7 @@
                 "ралли", 
                 "капюшон"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-07-14 19.01.02.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-07-14 19.01.02.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -305,7 +305,7 @@
                 "компьютер", 
                 "внутри"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-15 15.55.24.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-15 15.55.24.jpg", 
             "timestamp": "1387094111", 
             "type": "image"
         }, 
@@ -338,7 +338,7 @@
                 "счастье", 
                 "подросток"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-15 17.36.46.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-15 17.36.46.jpg", 
             "timestamp": "1387100185", 
             "type": "image"
         }, 
@@ -371,7 +371,7 @@
                 "семья", 
                 "четыре"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-15 17.36.52.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-15 17.36.52.jpg", 
             "timestamp": "1387100209", 
             "type": "image"
         }, 
@@ -404,7 +404,7 @@
                 "завтрак", 
                 "чай"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-15 17.37.11.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-15 17.37.11.jpg", 
             "timestamp": "1387100225", 
             "type": "image"
         }, 
@@ -437,7 +437,7 @@
                 "коммерция", 
                 "офис"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-16 21.58.01.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-16 21.58.01.jpg", 
             "timestamp": "1387202282", 
             "type": "image"
         }, 
@@ -470,7 +470,7 @@
                 "график", 
                 "страница"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-16 21.58.09.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-16 21.58.09.jpg", 
             "timestamp": "1387202290", 
             "type": "image"
         }, 
@@ -503,7 +503,7 @@
                 "математика", 
                 "финансы"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-16 21.58.18.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-16 21.58.18.jpg", 
             "timestamp": "1387202299", 
             "type": "image"
         }, 
@@ -536,7 +536,7 @@
                 "пустой", 
                 "список"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-16 22.00.48.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-16 22.00.48.jpg", 
             "timestamp": "1387202442", 
             "type": "image"
         }, 
@@ -569,7 +569,7 @@
                 "древний", 
                 "алгебра"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-17 01.49.57.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-17 01.49.57.jpg", 
             "timestamp": "1387216186", 
             "type": "image"
         }, 
@@ -602,7 +602,7 @@
                 "дом", 
                 "нет человек"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-17 01.50.33.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-17 01.50.33.jpg", 
             "timestamp": "1387216228", 
             "type": "image"
         }, 
@@ -635,7 +635,7 @@
                 "софа", 
                 "сиденье"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-17 01.51.11.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-17 01.51.11.jpg", 
             "timestamp": "1387216260", 
             "type": "image"
         }, 
@@ -668,7 +668,7 @@
                 "легкий", 
                 "украшение"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-17 01.52.44.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-17 01.52.44.jpg", 
             "timestamp": "1387216361", 
             "type": "image"
         }, 
@@ -701,7 +701,7 @@
                 "образование", 
                 "больница"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-17 01.55.01.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-17 01.55.01.jpg", 
             "timestamp": "1387216492", 
             "type": "image"
         }, 
@@ -734,7 +734,7 @@
                 "один", 
                 "офис"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-17 01.55.28.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-17 01.55.28.jpg", 
             "timestamp": "1387216519", 
             "type": "image"
         }, 
@@ -767,7 +767,7 @@
                 "музей", 
                 "больница"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-17 01.55.49.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-17 01.55.49.jpg", 
             "timestamp": "1387216541", 
             "type": "image"
         }, 
@@ -800,7 +800,7 @@
                 "один", 
                 "внутри"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-17 16.55.46.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-17 16.55.46.jpg", 
             "timestamp": "1387270537", 
             "type": "image"
         }, 
@@ -833,7 +833,7 @@
                 "ретро", 
                 "поэзия"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-17 16.55.52.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-17 16.55.52.jpg", 
             "timestamp": "1387270537", 
             "type": "image"
         }, 
@@ -866,7 +866,7 @@
                 "каллиграфия", 
                 "формула"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-17 16.56.15.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-17 16.56.15.jpg", 
             "timestamp": "1387270576", 
             "type": "image"
         }, 
@@ -899,7 +899,7 @@
                 "закон", 
                 "письмо"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-17 23.34.24.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-17 23.34.24.jpg", 
             "timestamp": "1387294458", 
             "type": "image"
         }, 
@@ -932,7 +932,7 @@
                 "презентация", 
                 "ретро"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-18 10.52.20.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-18 10.52.20.jpg", 
             "timestamp": "1387335137", 
             "type": "image"
         }, 
@@ -965,7 +965,7 @@
                 "рамка", 
                 "творчество"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-18 11.02.59.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-18 11.02.59.jpg", 
             "timestamp": "1387335770", 
             "type": "image"
         }, 
@@ -998,7 +998,7 @@
                 "страница", 
                 "грязный"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-18 11.04.57.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-18 11.04.57.jpg", 
             "timestamp": "1387335892", 
             "type": "image"
         }, 
@@ -1031,7 +1031,7 @@
                 "математика", 
                 "страница"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-18 11.58.19.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-18 11.58.19.jpg", 
             "timestamp": "1387339096", 
             "type": "image"
         }, 
@@ -1064,7 +1064,7 @@
                 "страница", 
                 "безопасность"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-18 12.01.52.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-18 12.01.52.jpg", 
             "timestamp": "1387339312", 
             "type": "image"
         }, 
@@ -1097,7 +1097,7 @@
                 "военный", 
                 "музыкант"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-18 20.44.07.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-18 20.44.07.jpg", 
             "timestamp": "1387370632", 
             "type": "image"
         }, 
@@ -1130,7 +1130,7 @@
                 "оказание услуг", 
                 "безопасность"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-19 19.39.04.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-19 19.39.04.jpg", 
             "timestamp": "1387453140", 
             "type": "image"
         }, 
@@ -1163,7 +1163,7 @@
                 "бе́дствие", 
                 "школа"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-19 22.58.05.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-19 22.58.05.jpg", 
             "timestamp": "1387465080", 
             "type": "image"
         }, 
@@ -1196,7 +1196,7 @@
                 "учитель", 
                 "писать мелом"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-20 11.00.56.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-20 11.00.56.jpg", 
             "timestamp": "1387508451", 
             "type": "image"
         }, 
@@ -1229,7 +1229,7 @@
                 "люди", 
                 "сидя"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-20 12.20.33-1.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-20 12.20.33-1.jpg", 
             "timestamp": "1387513229", 
             "type": "image"
         }, 
@@ -1262,7 +1262,7 @@
                 "профессор", 
                 "выборы"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-20 12.20.33-2.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-20 12.20.33-2.jpg", 
             "timestamp": "1387513229", 
             "type": "image"
         }, 
@@ -1295,7 +1295,7 @@
                 "кухонная утварь", 
                 "натюрморт"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-20 16.44.52.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-20 16.44.52.jpg", 
             "timestamp": "1387529092", 
             "type": "image"
         }, 
@@ -1328,7 +1328,7 @@
                 "взаимодействие", 
                 "образование"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-20 17.40.21.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-20 17.40.21.jpg", 
             "timestamp": "1387532413", 
             "type": "image"
         }, 
@@ -1361,7 +1361,7 @@
                 "откидной", 
                 "компьютер"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-20 18.46.38.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-20 18.46.38.jpg", 
             "timestamp": "1387536396", 
             "type": "image"
         }, 
@@ -1394,7 +1394,7 @@
                 "мальчик", 
                 "два"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-20 18.46.40.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-20 18.46.40.jpg", 
             "timestamp": "1387536398", 
             "type": "image"
         }, 
@@ -1427,7 +1427,7 @@
                 "два", 
                 "здравоохранение"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-20 18.46.43.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-20 18.46.43.jpg", 
             "timestamp": "1387536401", 
             "type": "image"
         }, 
@@ -1460,7 +1460,7 @@
                 "сиденье", 
                 "больница"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-20 18.46.45.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-20 18.46.45.jpg", 
             "timestamp": "1387536403", 
             "type": "image"
         }, 
@@ -1493,7 +1493,7 @@
                 "мужчина", 
                 "брюнет"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-20 18.46.58.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-20 18.46.58.jpg", 
             "timestamp": "1387536416", 
             "type": "image"
         }, 
@@ -1526,7 +1526,7 @@
                 "молодой", 
                 "взрослый"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-20 18.47.22.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-20 18.47.22.jpg", 
             "timestamp": "1387536440", 
             "type": "image"
         }, 
@@ -1559,7 +1559,7 @@
                 "математика", 
                 "страница"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-20 19.03.46.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-20 19.03.46.jpg", 
             "timestamp": "1387537417", 
             "type": "image"
         }, 
@@ -1592,7 +1592,7 @@
                 "страница", 
                 "баланс"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-21 19.59.37.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-21 19.59.37.jpg", 
             "timestamp": "1387627172", 
             "type": "image"
         }, 
@@ -1625,7 +1625,7 @@
                 "древесина", 
                 "текстура"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-24 01.23.12.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-24 01.23.12.jpg", 
             "timestamp": "1387819384", 
             "type": "image"
         }, 
@@ -1658,7 +1658,7 @@
                 "администрация", 
                 "математика"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-24 01.23.18.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-24 01.23.18.jpg", 
             "timestamp": "1387819384", 
             "type": "image"
         }, 
@@ -1691,7 +1691,7 @@
                 "путешествовать", 
                 "поэзия"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-24 01.23.25.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-24 01.23.25.jpg", 
             "timestamp": "1387819384", 
             "type": "image"
         }, 
@@ -1724,7 +1724,7 @@
                 "священное писание", 
                 "рукописный"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-24 01.23.31.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-24 01.23.31.jpg", 
             "timestamp": "1387819407", 
             "type": "image"
         }, 
@@ -1757,7 +1757,7 @@
                 "древний", 
                 "мебель"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-24 01.23.38.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-24 01.23.38.jpg", 
             "timestamp": "1387819407", 
             "type": "image"
         }, 
@@ -1787,7 +1787,7 @@
                 "задний план", 
                 "шаблон"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-25 10.54.46.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-25 10.54.46.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -1817,7 +1817,7 @@
                 "шаблон", 
                 "документ"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-25 10.56.04.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-25 10.56.04.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -1847,7 +1847,7 @@
                 "путешествовать", 
                 "горизонтальный"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-25 10.57.32.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-25 10.57.32.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -1877,7 +1877,7 @@
                 "воздушное судно", 
                 "баннер"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-26 19.28.44.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-26 19.28.44.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -1907,7 +1907,7 @@
                 "этикетка", 
                 "коммерция"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-26 19.28.57.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-26 19.28.57.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -1937,7 +1937,7 @@
                 "натюрморт", 
                 "портативная пишущая машинка"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-26 19.29.04.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-26 19.29.04.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -1967,7 +1967,7 @@
                 "технология", 
                 "женщина"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-26 20.00.53.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-26 20.00.53.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -1997,7 +1997,7 @@
                 "финансы", 
                 "компас"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-27 03.51.26.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-27 03.51.26.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -2027,7 +2027,7 @@
                 "рукопись", 
                 "ностальгия"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-27 08.11.46.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-27 08.11.46.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -2057,7 +2057,7 @@
                 "ностальгия", 
                 "древний"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-27 11.39.54.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-27 11.39.54.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -2087,7 +2087,7 @@
                 "поэзия", 
                 "исследование"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-27 11.40.00.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-27 11.40.00.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -2117,7 +2117,7 @@
                 "пергамент", 
                 "ностальгия"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-27 11.40.21.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-27 11.40.21.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -2147,7 +2147,7 @@
                 "математика", 
                 "поэзия"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-27 11.40.29.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-27 11.40.29.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -2177,7 +2177,7 @@
                 "образование", 
                 "книга"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-27 11.40.32.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-27 11.40.32.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -2207,7 +2207,7 @@
                 "один", 
                 "офис"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-27 11.40.40.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-27 11.40.40.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -2237,7 +2237,7 @@
                 "финансовый", 
                 "доход"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-27 17.51.15.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-27 17.51.15.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -2267,7 +2267,7 @@
                 "рукопись", 
                 "число"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-29 18.57.17.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-29 18.57.17.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -2297,7 +2297,7 @@
                 "повестка дня", 
                 "напоминание"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-29 18.57.24.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-29 18.57.24.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -2327,7 +2327,7 @@
                 "диаграмма", 
                 "график"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-29 18.57.39.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-29 18.57.39.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -2357,7 +2357,7 @@
                 "Часы", 
                 "число"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-29 18.57.54.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-29 18.57.54.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -2387,7 +2387,7 @@
                 "учитель", 
                 "кабинет"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-30 13.15.25.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-30 13.15.25.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -2417,7 +2417,7 @@
                 "начальный", 
                 "написано"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-30 13.15.27.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-30 13.15.27.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -2447,7 +2447,7 @@
                 "соревнование", 
                 "люди"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-31 15.08.17.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-31 15.08.17.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -2477,7 +2477,7 @@
                 "нет человек", 
                 "зеркало"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-31 16.33.28.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-31 16.33.28.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -2507,7 +2507,7 @@
                 "семья", 
                 "нет человек"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-31 16.33.45.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-31 16.33.45.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -2537,7 +2537,7 @@
                 "обеденный", 
                 "одежда"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2013-12-31 23.08.42.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2013-12-31 23.08.42.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -2567,7 +2567,7 @@
                 "шоппинг", 
                 "магазин"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-01 01.06.36.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-01 01.06.36.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -2597,7 +2597,7 @@
                 "магазин", 
                 "путешествовать"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-01 01.06.38.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-01 01.06.38.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -2627,7 +2627,7 @@
                 "пейзаж", 
                 "религия"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-01 03.08.57.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-01 03.08.57.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -2657,7 +2657,7 @@
                 "развлечение", 
                 "танец"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-01 03.09.19.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-01 03.09.19.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -2687,7 +2687,7 @@
                 "футбол", 
                 "шеф-повар"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-01 03.59.37.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-01 03.59.37.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -2717,7 +2717,7 @@
                 "индустрия", 
                 "Выражение лица"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-01 03.59.38.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-01 03.59.38.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -2747,7 +2747,7 @@
                 "взаимодействие", 
                 "пикет"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-01 04.17.15.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-01 04.17.15.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -2777,7 +2777,7 @@
                 "певец", 
                 "митинг"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-01 04.17.20-1.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-01 04.17.20-1.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -2807,7 +2807,7 @@
                 "выборы", 
                 "восстание"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-01 04.17.20-2.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-01 04.17.20-2.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -2837,7 +2837,7 @@
                 "религия", 
                 "финансы"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-01 04.17.23.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-01 04.17.23.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -2867,7 +2867,7 @@
                 "финансы", 
                 "выборы"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-01 04.17.24.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-01 04.17.24.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -2897,7 +2897,7 @@
                 "городской", 
                 "мужчина"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-01 04.17.27.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-01 04.17.27.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -2927,7 +2927,7 @@
                 "музыка", 
                 "фестиваль"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-01 04.17.39.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-01 04.17.39.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -2957,7 +2957,7 @@
                 "дневной свет", 
                 "место жительства"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-01 04.17.44.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-01 04.17.44.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -2987,7 +2987,7 @@
                 "городской", 
                 "восстание"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-01 04.17.45.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-01 04.17.45.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -3017,7 +3017,7 @@
                 "легкий", 
                 "улица"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-01 04.33.33.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-01 04.33.33.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -3047,7 +3047,7 @@
                 "пейзаж", 
                 "улица"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-01 04.33.37.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-01 04.33.37.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -3077,7 +3077,7 @@
                 "дверь", 
                 "девушка"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-01 04.33.38.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-01 04.33.38.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -3107,7 +3107,7 @@
                 "пиво", 
                 "семья"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-01 04.50.23.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-01 04.50.23.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -3137,7 +3137,7 @@
                 "стол", 
                 "четыре"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-01 04.50.24.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-01 04.50.24.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -3167,7 +3167,7 @@
                 "магазин", 
                 "одежда"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-01 04.59.18.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-01 04.59.18.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -3197,7 +3197,7 @@
                 "одежда", 
                 "развлечение"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-01 05.08.03.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-01 05.08.03.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -3227,7 +3227,7 @@
                 "окно", 
                 "образ жизни"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-01 05.08.12.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-01 05.08.12.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -3257,7 +3257,7 @@
                 "квартира", 
                 "номер в отеле"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-01 05.08.23.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-01 05.08.23.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -3287,7 +3287,7 @@
                 "ребенок", 
                 "близость"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-01 05.19.21.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-01 05.19.21.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -3317,7 +3317,7 @@
                 "три", 
                 "ребенок"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-01 05.19.32.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-01 05.19.32.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -3347,7 +3347,7 @@
                 "кровать", 
                 "пейзаж"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-01 05.19.41.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-01 05.19.41.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -3377,7 +3377,7 @@
                 "один", 
                 "сотрудник"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-01 05.26.32.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-01 05.26.32.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -3407,7 +3407,7 @@
                 "музей", 
                 "развлечение"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-01 05.26.33.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-01 05.26.33.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -3437,7 +3437,7 @@
                 "сотрудник", 
                 "военный"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-01 05.26.34.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-01 05.26.34.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -3467,7 +3467,7 @@
                 "празднование", 
                 "дневной свет"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-01 05.36.11.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-01 05.36.11.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -3497,7 +3497,7 @@
                 "одежда", 
                 "предприятие"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-01 05.52.44.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-01 05.52.44.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -3527,7 +3527,7 @@
                 "актер", 
                 "фестиваль"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-01 05.52.54.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-01 05.52.54.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -3557,7 +3557,7 @@
                 "ресторан", 
                 "религия"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-01 06.01.56.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-01 06.01.56.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -3587,7 +3587,7 @@
                 "музыка", 
                 "применение силы"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-01 06.48.46.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-01 06.48.46.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -3617,7 +3617,7 @@
                 "место жительства", 
                 "комната"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-01 06.48.47.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-01 06.48.47.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -3647,7 +3647,7 @@
                 "лидер", 
                 "выступление"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-01 07.29.52.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-01 07.29.52.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -3677,7 +3677,7 @@
                 "актриса", 
                 "предприятие"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-01 07.29.54.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-01 07.29.54.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -3710,7 +3710,7 @@
                 "карандаш", 
                 "люди"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-07 18.18.57.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-07 18.18.57.jpg", 
             "timestamp": "1389089937", 
             "type": "image"
         }, 
@@ -3743,7 +3743,7 @@
                 "финансы", 
                 "Заметка"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-08 07.10.55.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-08 07.10.55.jpg", 
             "timestamp": "1389136251", 
             "type": "image"
         }, 
@@ -3776,7 +3776,7 @@
                 "текст", 
                 "график"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-09 00.59.33.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-09 00.59.33.jpg", 
             "timestamp": "1389200370", 
             "type": "image"
         }, 
@@ -3809,7 +3809,7 @@
                 "шаблон", 
                 "старый"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-09 00.59.45.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-09 00.59.45.jpg", 
             "timestamp": "1389200382", 
             "type": "image"
         }, 
@@ -3842,7 +3842,7 @@
                 "карандаш", 
                 "рукопись"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-09 01.00.35.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-09 01.00.35.jpg", 
             "timestamp": "1389200430", 
             "type": "image"
         }, 
@@ -3875,7 +3875,7 @@
                 "карандаш", 
                 "годовой"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-09 01.00.42.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-09 01.00.42.jpg", 
             "timestamp": "1389200435", 
             "type": "image"
         }, 
@@ -3908,7 +3908,7 @@
                 "дизайн интерьера", 
                 "натюрморт"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-09 01.00.47.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-09 01.00.47.jpg", 
             "timestamp": "1389200443", 
             "type": "image"
         }, 
@@ -3941,7 +3941,7 @@
                 "рукопись", 
                 "календарь"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-09 01.21.41.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-09 01.21.41.jpg", 
             "timestamp": "1389201696", 
             "type": "image"
         }, 
@@ -3974,7 +3974,7 @@
                 "старый", 
                 "школа"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-09 01.21.52.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-09 01.21.52.jpg", 
             "timestamp": "1389201713", 
             "type": "image"
         }, 
@@ -4007,7 +4007,7 @@
                 "сезон сбора винограда", 
                 "стол"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-09 01.24.34.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-09 01.24.34.jpg", 
             "timestamp": "1389201872", 
             "type": "image"
         }, 
@@ -4040,7 +4040,7 @@
                 "рукопись", 
                 "старый"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-09 01.27.32.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-09 01.27.32.jpg", 
             "timestamp": "1389202051", 
             "type": "image"
         }, 
@@ -4073,7 +4073,7 @@
                 "карандаш", 
                 "записывать"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-09 01.50.53.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-09 01.50.53.jpg", 
             "timestamp": "1389203449", 
             "type": "image"
         }, 
@@ -4106,7 +4106,7 @@
                 "диаграмма", 
                 "офис"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-19 01.16.52.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-19 01.16.52.jpg", 
             "timestamp": "1390065408", 
             "type": "image"
         }, 
@@ -4139,7 +4139,7 @@
                 "многие", 
                 "университет"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-19 21.49.19.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-19 21.49.19.jpg", 
             "timestamp": "1390139357", 
             "type": "image"
         }, 
@@ -4172,7 +4172,7 @@
                 "участник кампании", 
                 "университет"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-19 21.49.31.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-19 21.49.31.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -4205,7 +4205,7 @@
                 "битва", 
                 "привязанность"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-19 21.58.58.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-19 21.58.58.jpg", 
             "timestamp": "1390139933", 
             "type": "image"
         }, 
@@ -4238,7 +4238,7 @@
                 "рукопись", 
                 "сезон сбора винограда"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-20 11.01.12.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-20 11.01.12.jpg", 
             "timestamp": "1390186844", 
             "type": "image"
         }, 
@@ -4271,7 +4271,7 @@
                 "каллиграфия", 
                 "паспорт"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-20 11.33.32.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-20 11.33.32.jpg", 
             "timestamp": "1390188811", 
             "type": "image"
         }, 
@@ -4304,7 +4304,7 @@
                 "тетрадь", 
                 "Прибыль (преимущество)"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-20 14.03.01.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-20 14.03.01.jpg", 
             "timestamp": "1390197779", 
             "type": "image"
         }, 
@@ -4337,7 +4337,7 @@
                 "идентичность", 
                 "на открытом воздухе"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-20 23.45.26.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-20 23.45.26.jpg", 
             "timestamp": "1390232722", 
             "type": "image"
         }, 
@@ -4367,7 +4367,7 @@
                 "сын", 
                 "боковой вид"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-23 18.56.59.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-23 18.56.59.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -4400,7 +4400,7 @@
                 "бумага", 
                 "семья"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-26 22.04.19.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-26 22.04.19.jpg", 
             "timestamp": "1390745052", 
             "type": "image"
         }, 
@@ -4433,7 +4433,7 @@
                 "контейнер", 
                 "натюрморт"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-26 23.09.30.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-26 23.09.30.jpg", 
             "timestamp": "1390748965", 
             "type": "image"
         }, 
@@ -4466,7 +4466,7 @@
                 "портрет", 
                 "книга"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-27 00.21.54.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-27 00.21.54.jpg", 
             "timestamp": "1390753310", 
             "type": "image"
         }, 
@@ -4499,7 +4499,7 @@
                 "пейзаж", 
                 "тень"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-27 00.22.10.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-27 00.22.10.jpg", 
             "timestamp": "1390753330", 
             "type": "image"
         }, 
@@ -4532,7 +4532,7 @@
                 "автогонки", 
                 "бумага"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-27 00.22.21.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-27 00.22.21.jpg", 
             "timestamp": "1390753340", 
             "type": "image"
         }, 
@@ -4565,7 +4565,7 @@
                 "беспроводной", 
                 "доступ"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-27 00.26.55.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-27 00.26.55.jpg", 
             "timestamp": "1390753613", 
             "type": "image"
         }, 
@@ -4598,7 +4598,7 @@
                 "клавиатура", 
                 "стол"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-27 00.27.01.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-27 00.27.01.jpg", 
             "timestamp": "1390753618", 
             "type": "image"
         }, 
@@ -4631,7 +4631,7 @@
                 "связь", 
                 "люди"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-27 00.27.04.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-27 00.27.04.jpg", 
             "timestamp": "1390753623", 
             "type": "image"
         }, 
@@ -4664,7 +4664,7 @@
                 "внутри", 
                 "стол"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-27 00.27.08.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-27 00.27.08.jpg", 
             "timestamp": "1390753628", 
             "type": "image"
         }, 
@@ -4697,7 +4697,7 @@
                 "тетрадь", 
                 "текстура"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-27 11.18.00.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-27 11.18.00.jpg", 
             "timestamp": "1390792679", 
             "type": "image"
         }, 
@@ -4730,7 +4730,7 @@
                 "книга", 
                 "финансовый"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-29 16.25.53.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-29 16.25.53.jpg", 
             "timestamp": "1390983948", 
             "type": "image"
         }, 
@@ -4763,7 +4763,7 @@
                 "чернила", 
                 "древесина"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-29 16.27.30.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-29 16.27.30.jpg", 
             "timestamp": "1390984047", 
             "type": "image"
         }, 
@@ -4793,7 +4793,7 @@
                 "дневник", 
                 "наука"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-29 16.44.27.png", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-29 16.44.27.png", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -4826,7 +4826,7 @@
                 "нерезкость", 
                 "графический"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-31 05.09.21.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-31 05.09.21.jpg", 
             "timestamp": "1391116160", 
             "type": "image"
         }, 
@@ -4859,7 +4859,7 @@
                 "гостиница", 
                 "взрослый"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-31 05.09.30.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-31 05.09.30.jpg", 
             "timestamp": "1391116165", 
             "type": "image"
         }, 
@@ -4892,7 +4892,7 @@
                 "взрослый", 
                 "нет человек"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-31 05.09.37.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-31 05.09.37.jpg", 
             "timestamp": "1391116175", 
             "type": "image"
         }, 
@@ -4925,7 +4925,7 @@
                 "легкий", 
                 "политик"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-31 18.59.46.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-31 18.59.46.jpg", 
             "timestamp": "1391165984", 
             "type": "image"
         }, 
@@ -4958,7 +4958,7 @@
                 "стул", 
                 "гостиница"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-31 18.59.56.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-31 18.59.56.jpg", 
             "timestamp": "1391165994", 
             "type": "image"
         }, 
@@ -4991,7 +4991,7 @@
                 "архитектура", 
                 "здание"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-01-31 19.03.17.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-01-31 19.03.17.jpg", 
             "timestamp": "1391166195", 
             "type": "image"
         }, 
@@ -5021,7 +5021,7 @@
                 "ипподром", 
                 "неровный"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-04 12.49.37.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-04 12.49.37.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -5051,7 +5051,7 @@
                 "водоём", 
                 "путешествовать"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-04 12.49.40.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-04 12.49.40.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -5081,7 +5081,7 @@
                 "развлечение", 
                 "путешествовать"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-04 12.49.44.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-04 12.49.44.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -5111,7 +5111,7 @@
                 "мороженое", 
                 "на открытом воздухе"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-04 12.49.50.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-04 12.49.50.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -5144,7 +5144,7 @@
                 "взрослый", 
                 "птица"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-05 12.09.25.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-05 12.09.25.jpg", 
             "timestamp": "1391573308", 
             "type": "image"
         }, 
@@ -5177,7 +5177,7 @@
                 "образование", 
                 "страница"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-06 11.37.00.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-06 11.37.00.jpg", 
             "timestamp": "1391657817", 
             "type": "image"
         }, 
@@ -5210,7 +5210,7 @@
                 "коммерция", 
                 "напоминание"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-06 12.19.05.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-06 12.19.05.jpg", 
             "timestamp": "1391660344", 
             "type": "image"
         }, 
@@ -5243,7 +5243,7 @@
                 "написание", 
                 "карандаш"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-06 12.29.50.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-06 12.29.50.jpg", 
             "timestamp": "1391660987", 
             "type": "image"
         }, 
@@ -5276,7 +5276,7 @@
                 "натюрморт", 
                 "святой"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-07 10.59.37.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-07 10.59.37.jpg", 
             "timestamp": "1391741975", 
             "type": "image"
         }, 
@@ -5309,7 +5309,7 @@
                 "финансы", 
                 "древесина"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-07 10.59.44.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-07 10.59.44.jpg", 
             "timestamp": "1391741979", 
             "type": "image"
         }, 
@@ -5342,7 +5342,7 @@
                 "ежемесячное периодическое издание", 
                 "повестка дня"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-07 12.14.27.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-07 12.14.27.jpg", 
             "timestamp": "1391746464", 
             "type": "image"
         }, 
@@ -5375,7 +5375,7 @@
                 "данные", 
                 "знак"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-07 12.14.36.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-07 12.14.36.jpg", 
             "timestamp": "1391746471", 
             "type": "image"
         }, 
@@ -5408,7 +5408,7 @@
                 "пейзаж", 
                 "мегаполис"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-09 17.07.43.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-09 17.07.43.jpg", 
             "timestamp": "1391936861", 
             "type": "image"
         }, 
@@ -5441,7 +5441,7 @@
                 "баннер", 
                 "сезон сбора винограда"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-11 14.27.23.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-11 14.27.23.jpg", 
             "timestamp": "1392100040", 
             "type": "image"
         }, 
@@ -5474,7 +5474,7 @@
                 "школа", 
                 "годовой"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-11 14.27.38.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-11 14.27.38.jpg", 
             "timestamp": "1392100054", 
             "type": "image"
         }, 
@@ -5507,7 +5507,7 @@
                 "рамка", 
                 "набор"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-11 14.27.46.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-11 14.27.46.jpg", 
             "timestamp": "1392100064", 
             "type": "image"
         }, 
@@ -5540,7 +5540,7 @@
                 "бланк", 
                 "данные"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-11 15.12.07.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-11 15.12.07.jpg", 
             "timestamp": "1392102722", 
             "type": "image"
         }, 
@@ -5573,7 +5573,7 @@
                 "школа", 
                 "карандаш"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-11 15.12.12.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-11 15.12.12.jpg", 
             "timestamp": "1392102730", 
             "type": "image"
         }, 
@@ -5606,7 +5606,7 @@
                 "картина", 
                 "музей"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-11 15.12.16.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-11 15.12.16.jpg", 
             "timestamp": "1392102735", 
             "type": "image"
         }, 
@@ -5639,7 +5639,7 @@
                 "подпись", 
                 "финансы"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-11 15.12.17.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-11 15.12.17.jpg", 
             "timestamp": "1392102736", 
             "type": "image"
         }, 
@@ -5672,7 +5672,7 @@
                 "заказ", 
                 "Распечатать"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-11 23.30.02.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-11 23.30.02.jpg", 
             "timestamp": "1392132601", 
             "type": "image"
         }, 
@@ -5705,7 +5705,7 @@
                 "информация", 
                 "расположение"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-11 23.30.45.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-11 23.30.45.jpg", 
             "timestamp": "1392132638", 
             "type": "image"
         }, 
@@ -5735,7 +5735,7 @@
                 "тетрадь", 
                 "рукопись"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-17 19.08.28.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-17 19.08.28.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -5765,7 +5765,7 @@
                 "Распечатать", 
                 "древний"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-17 19.08.36.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-17 19.08.36.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -5795,7 +5795,7 @@
                 "улица", 
                 "девушка"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-18 15.52.15.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-18 15.52.15.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -5825,7 +5825,7 @@
                 "концерт", 
                 "два"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-18 15.52.20.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-18 15.52.20.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -5855,7 +5855,7 @@
                 "религия", 
                 "вспыхнуть"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-18 15.52.21-1.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-18 15.52.21-1.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -5885,7 +5885,7 @@
                 "группа (абстракция)", 
                 "действие"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-18 15.52.21-2.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-18 15.52.21-2.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -5915,7 +5915,7 @@
                 "музыка", 
                 "энергия"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-18 15.52.31.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-18 15.52.31.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -5945,7 +5945,7 @@
                 "нерезкость", 
                 "астрономия"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-18 15.53.09.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-18 15.53.09.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -5975,7 +5975,7 @@
                 "школа", 
                 "графический"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-19 12.05.57.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-19 12.05.57.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -6005,7 +6005,7 @@
                 "творчество", 
                 "школа"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-20 19.47.12.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-20 19.47.12.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -6035,7 +6035,7 @@
                 "телефон", 
                 "путешествовать"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-22 15.20.27.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-22 15.20.27.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -6065,7 +6065,7 @@
                 "Выражение лица", 
                 "транспортное средство"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-22 21.28.28.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-22 21.28.28.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -6095,7 +6095,7 @@
                 "предприятие", 
                 "система транспорта"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-22 21.28.43.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-22 21.28.43.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -6125,7 +6125,7 @@
                 "взаимодействие", 
                 "дневной свет"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-22 22.09.23.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-22 22.09.23.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -6155,7 +6155,7 @@
                 "дизайн (оформление)", 
                 "письменность"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-25 01.24.02.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-25 01.24.02.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -6185,7 +6185,7 @@
                 "древний", 
                 "Заметка"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-25 18.08.29.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-25 18.08.29.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -6215,7 +6215,7 @@
                 "лекарство", 
                 "книга"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-25 18.08.48.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-25 18.08.48.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -6245,7 +6245,7 @@
                 "календарь", 
                 "письмо"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-25 18.08.53.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-25 18.08.53.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -6275,7 +6275,7 @@
                 "страница", 
                 "текст"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-25 18.09.03.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-25 18.09.03.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -6305,7 +6305,7 @@
                 "технология", 
                 "график"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-25 18.09.08.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-25 18.09.08.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -6335,7 +6335,7 @@
                 "ноутбук", 
                 "коммерция"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-25 18.09.18.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-25 18.09.18.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -6365,7 +6365,7 @@
                 "холст", 
                 "квадрат"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-25 18.09.22.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-25 18.09.22.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -6395,7 +6395,7 @@
                 "страница", 
                 "точность"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-25 18.12.17.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-25 18.12.17.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -6425,7 +6425,7 @@
                 "экран", 
                 "данные"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-25 18.12.23.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-25 18.12.23.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -6455,7 +6455,7 @@
                 "текст", 
                 "список"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-25 18.12.31.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-25 18.12.31.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -6485,7 +6485,7 @@
                 "технология", 
                 "ноутбук"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-25 18.12.35.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-25 18.12.35.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -6515,7 +6515,7 @@
                 "список", 
                 "страница"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-25 18.13.23.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-25 18.13.23.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -6545,7 +6545,7 @@
                 "текст", 
                 "Заметка"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-25 18.13.30.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-25 18.13.30.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -6575,7 +6575,7 @@
                 "шаблон", 
                 "документ"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-25 18.13.36.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-25 18.13.36.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -6605,7 +6605,7 @@
                 "эскиз", 
                 "путешествовать"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-25 18.13.40.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-25 18.13.40.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -6635,7 +6635,7 @@
                 "наука", 
                 "образование"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-25 18.13.46.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-25 18.13.46.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -6665,7 +6665,7 @@
                 "правительство", 
                 "книга"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-25 23.47.57.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-25 23.47.57.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -6695,7 +6695,7 @@
                 "календарь", 
                 "книга"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-26 03.52.19.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-26 03.52.19.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -6725,7 +6725,7 @@
                 "баннер", 
                 "украшение"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-26 10.49.45.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-26 10.49.45.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -6755,7 +6755,7 @@
                 "школа", 
                 "один"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-02-26 10.59.00.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-02-26 10.59.00.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -6785,7 +6785,7 @@
                 "путешествовать", 
                 "школа"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-03-01 10.25.40.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-03-01 10.25.40.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -6815,7 +6815,7 @@
                 "флаг", 
                 "демократия"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-03-01 14.32.09.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-03-01 14.32.09.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -6845,7 +6845,7 @@
                 "на открытом воздухе", 
                 "патрулировать"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-03-01 16.27.23.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-03-01 16.27.23.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -6875,7 +6875,7 @@
                 "военный", 
                 "выборы"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-03-01 16.29.54.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-03-01 16.29.54.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -6905,7 +6905,7 @@
                 "окружающая среда", 
                 "здание"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-03-01 18.35.17.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-03-01 18.35.17.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -6935,7 +6935,7 @@
                 "бе́дствие", 
                 "выборы"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-03-01 18.35.26.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-03-01 18.35.26.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -6965,7 +6965,7 @@
                 "нет человек", 
                 "горизонтальный"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-03-03 17.08.42.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-03-03 17.08.42.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -6995,7 +6995,7 @@
                 "физика", 
                 "наука"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-03-04 00.28.35.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-03-04 00.28.35.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -7025,7 +7025,7 @@
                 "текстура", 
                 "ретро"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-03-04 13.58.26.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-03-04 13.58.26.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -7055,7 +7055,7 @@
                 "старый", 
                 "график"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-03-04 16.16.43.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-03-04 16.16.43.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -7085,7 +7085,7 @@
                 "патрулировать", 
                 "концерт"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-03-04 16.20.30.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-03-04 16.20.30.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -7115,7 +7115,7 @@
                 "бумага", 
                 "фон"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-03-05 03.11.52.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-03-05 03.11.52.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -7145,7 +7145,7 @@
                 "Абстрактные", 
                 "грязный"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-03-05 12.10.25.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-03-05 12.10.25.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -7178,7 +7178,7 @@
                 "диаграмма", 
                 "линия"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-03-10 18.24.58.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-03-10 18.24.58.jpg", 
             "timestamp": "1394447085", 
             "type": "image"
         }, 
@@ -7211,7 +7211,7 @@
                 "документ", 
                 "исследование"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-03-12 01.59.18.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-03-12 01.59.18.jpg", 
             "timestamp": "1394560746", 
             "type": "image"
         }, 
@@ -7244,7 +7244,7 @@
                 "данные", 
                 "компьютер"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-03-12 04.49.35.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-03-12 04.49.35.jpg", 
             "timestamp": "1394570967", 
             "type": "image"
         }, 
@@ -7277,7 +7277,7 @@
                 "деньги", 
                 "информация"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-03-12 04.59.28.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-03-12 04.59.28.jpg", 
             "timestamp": "1394571557", 
             "type": "image"
         }, 
@@ -7310,7 +7310,7 @@
                 "данные", 
                 "школа"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-03-12 04.59.39.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-03-12 04.59.39.jpg", 
             "timestamp": "1394571557", 
             "type": "image"
         }, 
@@ -7343,7 +7343,7 @@
                 "на открытом воздухе", 
                 "информация"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-03-14 16.57.36-1.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-03-14 16.57.36-1.jpg", 
             "timestamp": "1394787453", 
             "type": "image"
         }, 
@@ -7376,7 +7376,7 @@
                 "вектор", 
                 "путешествовать"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-03-14 16.57.36-2.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-03-14 16.57.36-2.jpg", 
             "timestamp": "1394787453", 
             "type": "image"
         }, 
@@ -7409,7 +7409,7 @@
                 "документ", 
                 "буклет"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-03-14 16.57.37.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-03-14 16.57.37.jpg", 
             "timestamp": "1394787453", 
             "type": "image"
         }, 
@@ -7442,7 +7442,7 @@
                 "повестка дня", 
                 "Абстрактные"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-03-15 03.11.28.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-03-15 03.11.28.jpg", 
             "timestamp": "1394824256", 
             "type": "image"
         }, 
@@ -7475,7 +7475,7 @@
                 "написание", 
                 "старый"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-03-15 09.29.31.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-03-15 09.29.31.jpg", 
             "timestamp": "1394846959", 
             "type": "image"
         }, 
@@ -7508,7 +7508,7 @@
                 "исследование", 
                 "наука"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-03-22 11.29.00.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-03-22 11.29.00.jpg", 
             "timestamp": "1395458933", 
             "type": "image"
         }, 
@@ -7541,7 +7541,7 @@
                 "пустой", 
                 "искусство"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-03-22 11.29.12.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-03-22 11.29.12.jpg", 
             "timestamp": "1395458942", 
             "type": "image"
         }, 
@@ -7574,7 +7574,7 @@
                 "грязный", 
                 "пустой"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-03-22 11.29.13.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-03-22 11.29.13.jpg", 
             "timestamp": "1395458942", 
             "type": "image"
         }, 
@@ -7607,7 +7607,7 @@
                 "математика", 
                 "старый"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-03-22 11.29.19.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-03-22 11.29.19.jpg", 
             "timestamp": "1395458942", 
             "type": "image"
         }, 
@@ -7640,7 +7640,7 @@
                 "старый", 
                 "написание"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-03-22 11.53.17.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-03-22 11.53.17.jpg", 
             "timestamp": "1395460381", 
             "type": "image"
         }, 
@@ -7673,7 +7673,7 @@
                 "линия", 
                 "пустой"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-03-22 11.55.26.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-03-22 11.55.26.jpg", 
             "timestamp": "1395460523", 
             "type": "image"
         }, 
@@ -7706,7 +7706,7 @@
                 "неровный", 
                 "пустой"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-03-22 14.58.51.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-03-22 14.58.51.jpg", 
             "timestamp": "1395471529", 
             "type": "image"
         }, 
@@ -7739,7 +7739,7 @@
                 "поросль", 
                 "число"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-03-22 14.58.55.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-03-22 14.58.55.jpg", 
             "timestamp": "1395471529", 
             "type": "image"
         }, 
@@ -7772,7 +7772,7 @@
                 "всемирная паутина", 
                 "баннер"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-03-26 02.00.31.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-03-26 02.00.31.jpg", 
             "timestamp": "1395770428", 
             "type": "image"
         }, 
@@ -7805,7 +7805,7 @@
                 "старый", 
                 "карта"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-03-26 12.00.13.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-03-26 12.00.13.jpg", 
             "timestamp": "1395806403", 
             "type": "image"
         }, 
@@ -7838,7 +7838,7 @@
                 "стул", 
                 "концентрация"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-03-27 12.44.43.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-03-27 12.44.43.jpg", 
             "timestamp": "1395895449", 
             "type": "image"
         }, 
@@ -7871,7 +7871,7 @@
                 "место жительства", 
                 "путешествовать"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-03-27 16.57.17.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-03-27 16.57.17.jpg", 
             "timestamp": "1395910635", 
             "type": "image"
         }, 
@@ -7904,7 +7904,7 @@
                 "компьютер", 
                 "информация"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-03-28 00.23.14.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-03-28 00.23.14.jpg", 
             "timestamp": "1395937391", 
             "type": "image"
         }, 
@@ -7937,7 +7937,7 @@
                 "ноутбук", 
                 "индустрия"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-03-28 00.23.46.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-03-28 00.23.46.jpg", 
             "timestamp": "1395937412", 
             "type": "image"
         }, 
@@ -7970,7 +7970,7 @@
                 "технология", 
                 "баннер"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-03-29 01.47.23.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-03-29 01.47.23.jpg", 
             "timestamp": "1396028829", 
             "type": "image"
         }, 
@@ -8003,7 +8003,7 @@
                 "выборы", 
                 "дом"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-03-29 10.25.02.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-03-29 10.25.02.jpg", 
             "timestamp": "1396059899", 
             "type": "image"
         }, 
@@ -8033,7 +8033,7 @@
                 "футуристический", 
                 "Интернет"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-03-31 11.31.26.png", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-03-31 11.31.26.png", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -8066,7 +8066,7 @@
                 "дизайн интерьера", 
                 "пейзаж"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-02 12.09.32.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-02 12.09.32.jpg", 
             "timestamp": "1396411765", 
             "type": "image"
         }, 
@@ -8099,7 +8099,7 @@
                 "письменность", 
                 "музей"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-03 23.19.03.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-03 23.19.03.jpg", 
             "timestamp": "1396538340", 
             "type": "image"
         }, 
@@ -8129,7 +8129,7 @@
                 "современный", 
                 "неровный"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-04 16.39.34.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-04 16.39.34.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -8162,7 +8162,7 @@
                 "индустрия", 
                 "секретность"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-04 19.45.09.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-04 19.45.09.jpg", 
             "timestamp": "1396611786", 
             "type": "image"
         }, 
@@ -8195,7 +8195,7 @@
                 "лекарство", 
                 "экран"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-04 19.46.04.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-04 19.46.04.jpg", 
             "timestamp": "1396611959", 
             "type": "image"
         }, 
@@ -8228,7 +8228,7 @@
                 "данные", 
                 "график"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-04 19.46.15.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-04 19.46.15.jpg", 
             "timestamp": "1396611977", 
             "type": "image"
         }, 
@@ -8261,7 +8261,7 @@
                 "предприятие", 
                 "место жительства"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-05 09.10.45.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-05 09.10.45.jpg", 
             "timestamp": "1396660239", 
             "type": "image"
         }, 
@@ -8294,7 +8294,7 @@
                 "календарная дата", 
                 "график"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-06 21.56.45.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-06 21.56.45.jpg", 
             "timestamp": "1396792595", 
             "type": "image"
         }, 
@@ -8327,7 +8327,7 @@
                 "письменность", 
                 "школа"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-06 21.56.58.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-06 21.56.58.jpg", 
             "timestamp": "1396792595", 
             "type": "image"
         }, 
@@ -8360,7 +8360,7 @@
                 "Распечатать", 
                 "планирование"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-06 21.57.02.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-06 21.57.02.jpg", 
             "timestamp": "1396792595", 
             "type": "image"
         }, 
@@ -8393,7 +8393,7 @@
                 "написание", 
                 "напоминание"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-06 21.57.43.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-06 21.57.43.jpg", 
             "timestamp": "1396792655", 
             "type": "image"
         }, 
@@ -8426,7 +8426,7 @@
                 "финансовый", 
                 "календарная дата"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-06 21.57.48.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-06 21.57.48.jpg", 
             "timestamp": "1396792655", 
             "type": "image"
         }, 
@@ -8459,7 +8459,7 @@
                 "нет человек", 
                 "список"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-06 21.57.56.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-06 21.57.56.jpg", 
             "timestamp": "1396792655", 
             "type": "image"
         }, 
@@ -8492,7 +8492,7 @@
                 "Часы", 
                 "диаграмма"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-06 21.58.00.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-06 21.58.00.jpg", 
             "timestamp": "1396792655", 
             "type": "image"
         }, 
@@ -8525,7 +8525,7 @@
                 "Часы", 
                 "напоминание"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-06 21.58.09.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-06 21.58.09.jpg", 
             "timestamp": "1396792685", 
             "type": "image"
         }, 
@@ -8558,7 +8558,7 @@
                 "Часы", 
                 "письменность"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-06 21.58.13.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-06 21.58.13.jpg", 
             "timestamp": "1396792685", 
             "type": "image"
         }, 
@@ -8591,7 +8591,7 @@
                 "текст", 
                 "календарная дата"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-07 03.12.51.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-07 03.12.51.jpg", 
             "timestamp": "1396811539", 
             "type": "image"
         }, 
@@ -8624,7 +8624,7 @@
                 "рукопись", 
                 "математика"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-07 03.13.01.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-07 03.13.01.jpg", 
             "timestamp": "1396811539", 
             "type": "image"
         }, 
@@ -8657,7 +8657,7 @@
                 "математика", 
                 "финансы"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-07 03.13.18.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-07 03.13.18.jpg", 
             "timestamp": "1396811585", 
             "type": "image"
         }, 
@@ -8690,7 +8690,7 @@
                 "Часы", 
                 "карандаш"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-07 03.13.26.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-07 03.13.26.jpg", 
             "timestamp": "1396811585", 
             "type": "image"
         }, 
@@ -8723,7 +8723,7 @@
                 "алгебра", 
                 "Часы"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-07 03.14.12.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-07 03.14.12.jpg", 
             "timestamp": "1396811640", 
             "type": "image"
         }, 
@@ -8756,7 +8756,7 @@
                 "успех", 
                 "книга"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-07 03.14.23.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-07 03.14.23.jpg", 
             "timestamp": "1396811640", 
             "type": "image"
         }, 
@@ -8789,7 +8789,7 @@
                 "эскиз", 
                 "математика"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-07 03.14.55.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-07 03.14.55.jpg", 
             "timestamp": "1396811695", 
             "type": "image"
         }, 
@@ -8822,7 +8822,7 @@
                 "календарная дата", 
                 "Заметка"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-07 03.15.10.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-07 03.15.10.jpg", 
             "timestamp": "1396811695", 
             "type": "image"
         }, 
@@ -8855,7 +8855,7 @@
                 "коммерция", 
                 "чернила"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-07 03.15.24.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-07 03.15.24.jpg", 
             "timestamp": "1396811695", 
             "type": "image"
         }, 
@@ -8888,7 +8888,7 @@
                 "календарь", 
                 "финансы"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-07 03.15.32.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-07 03.15.32.jpg", 
             "timestamp": "1396811727", 
             "type": "image"
         }, 
@@ -8921,7 +8921,7 @@
                 "рукописный", 
                 "книга"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-07 03.16.03.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-07 03.16.03.jpg", 
             "timestamp": "1396811763", 
             "type": "image"
         }, 
@@ -8954,7 +8954,7 @@
                 "этикетка", 
                 "книга"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-09 01.04.01.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-09 01.04.01.jpg", 
             "timestamp": "1396976640", 
             "type": "image"
         }, 
@@ -8987,7 +8987,7 @@
                 "шаблон", 
                 "ежемесячное периодическое издание"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-09 01.04.08.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-09 01.04.08.jpg", 
             "timestamp": "1396976640", 
             "type": "image"
         }, 
@@ -9020,7 +9020,7 @@
                 "знак", 
                 "выборы"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-09 01.04.19.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-09 01.04.19.jpg", 
             "timestamp": "1396976640", 
             "type": "image"
         }, 
@@ -9053,7 +9053,7 @@
                 "стена", 
                 "путешествовать"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-09 12.06.18.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-09 12.06.18.jpg", 
             "timestamp": "1397016371", 
             "type": "image"
         }, 
@@ -9083,7 +9083,7 @@
                 "Интернет", 
                 "изолированный"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-11 21.44.32.png", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-11 21.44.32.png", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -9116,7 +9116,7 @@
                 "древесина", 
                 "семья"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-12 10.18.27.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-12 10.18.27.jpg", 
             "timestamp": "1397269080", 
             "type": "image"
         }, 
@@ -9146,7 +9146,7 @@
                 "небо", 
                 "портрет"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-14 23.44.32.png", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-14 23.44.32.png", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -9176,7 +9176,7 @@
                 "фокус", 
                 "творчество"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-14 23.44.42.png", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-14 23.44.42.png", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -9206,7 +9206,7 @@
                 "связь", 
                 "поросль"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-15 00.08.23.png", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-15 00.08.23.png", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -9236,7 +9236,7 @@
                 "футуристический", 
                 "коммуникация"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-15 10.05.40.png", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-15 10.05.40.png", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -9266,7 +9266,7 @@
                 "вертикальный", 
                 "футуристический"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-15 10.29.19.png", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-15 10.29.19.png", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -9296,7 +9296,7 @@
                 "вертикальный", 
                 "футуристический"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-15 10.29.28.png", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-15 10.29.28.png", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -9326,7 +9326,7 @@
                 "творчество", 
                 "поросль"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-15 10.29.37.png", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-15 10.29.37.png", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -9359,7 +9359,7 @@
                 "Абстрактные", 
                 "данные"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-16 07.44.12.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-16 07.44.12.jpg", 
             "timestamp": "1397605415", 
             "type": "image"
         }, 
@@ -9392,7 +9392,7 @@
                 "всемирная паутина", 
                 "этикетка"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-16 07.45.12.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-16 07.45.12.jpg", 
             "timestamp": "1397605466", 
             "type": "image"
         }, 
@@ -9425,7 +9425,7 @@
                 "календарная дата", 
                 "иллюстрация"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-16 07.45.25.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-16 07.45.25.jpg", 
             "timestamp": "1397605520", 
             "type": "image"
         }, 
@@ -9458,7 +9458,7 @@
                 "карта", 
                 "календарная дата"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-16 08.09.48.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-16 08.09.48.jpg", 
             "timestamp": "1397606986", 
             "type": "image"
         }, 
@@ -9491,7 +9491,7 @@
                 "познание", 
                 "предприятие"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-16 10.46.31.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-16 10.46.31.jpg", 
             "timestamp": "1397616377", 
             "type": "image"
         }, 
@@ -9524,7 +9524,7 @@
                 "сезон сбора винограда", 
                 "график"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-19 05.49.33.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-19 05.49.33.jpg", 
             "timestamp": "1397857752", 
             "type": "image"
         }, 
@@ -9557,7 +9557,7 @@
                 "рукопись", 
                 "линия"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-21 03.55.52.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-21 03.55.52.jpg", 
             "timestamp": "1398023749", 
             "type": "image"
         }, 
@@ -9590,7 +9590,7 @@
                 "чернила", 
                 "рукопись"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-21 03.56.07.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-21 03.56.07.jpg", 
             "timestamp": "1398023749", 
             "type": "image"
         }, 
@@ -9620,7 +9620,7 @@
                 "ноутбук", 
                 "текст"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-23 11.46.18.png", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-23 11.46.18.png", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -9653,7 +9653,7 @@
                 "всемирная паутина", 
                 "оборудование"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-23 16.04.49.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-23 16.04.49.jpg", 
             "timestamp": "1398240279", 
             "type": "image"
         }, 
@@ -9686,7 +9686,7 @@
                 "старый", 
                 "годовой"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-24 18.11.44.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-24 18.11.44.jpg", 
             "timestamp": "1398334281", 
             "type": "image"
         }, 
@@ -9719,7 +9719,7 @@
                 "формула", 
                 "грязный"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-25 14.55.19.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-25 14.55.19.jpg", 
             "timestamp": "1398408916", 
             "type": "image"
         }, 
@@ -9752,7 +9752,7 @@
                 "стол", 
                 "архитектура"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-30 12.05.21.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-30 12.05.21.jpg", 
             "timestamp": "1398830717", 
             "type": "image"
         }, 
@@ -9785,7 +9785,7 @@
                 "битва", 
                 "люди"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-04-30 23.30.02.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-04-30 23.30.02.jpg", 
             "timestamp": "1398871791", 
             "type": "image"
         }, 
@@ -9818,7 +9818,7 @@
                 "девушка", 
                 "счастье"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-01 19.01.34.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-01 19.01.34.jpg", 
             "timestamp": "1398942078", 
             "type": "image"
         }, 
@@ -9851,7 +9851,7 @@
                 "система транспорта", 
                 "аудитория"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-01 20.18.27.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-01 20.18.27.jpg", 
             "timestamp": "1398946700", 
             "type": "image"
         }, 
@@ -9884,7 +9884,7 @@
                 "выборы", 
                 "митинг"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-01 20.18.35.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-01 20.18.35.jpg", 
             "timestamp": "1398946713", 
             "type": "image"
         }, 
@@ -9917,7 +9917,7 @@
                 "церемония", 
                 "толпа"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-01 20.18.54.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-01 20.18.54.jpg", 
             "timestamp": "1398946730", 
             "type": "image"
         }, 
@@ -9950,7 +9950,7 @@
                 "женщина", 
                 "пейзаж"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-01 20.18.55.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-01 20.18.55.jpg", 
             "timestamp": "1398946730", 
             "type": "image"
         }, 
@@ -9983,7 +9983,7 @@
                 "выступление", 
                 "профиль"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-01 20.18.59.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-01 20.18.59.jpg", 
             "timestamp": "1398946730", 
             "type": "image"
         }, 
@@ -10016,7 +10016,7 @@
                 "мужчина", 
                 "действие"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-01 21.18.26.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-01 21.18.26.jpg", 
             "timestamp": "1398950300", 
             "type": "image"
         }, 
@@ -10049,7 +10049,7 @@
                 "путешествовать", 
                 "Рождество"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-01 21.18.28.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-01 21.18.28.jpg", 
             "timestamp": "1398950300", 
             "type": "image"
         }, 
@@ -10082,7 +10082,7 @@
                 "энергия", 
                 "брюнет"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-01 21.18.29.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-01 21.18.29.jpg", 
             "timestamp": "1398950300", 
             "type": "image"
         }, 
@@ -10115,7 +10115,7 @@
                 "городской", 
                 "путешествовать"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-01 21.18.31-1.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-01 21.18.31-1.jpg", 
             "timestamp": "1398950300", 
             "type": "image"
         }, 
@@ -10148,7 +10148,7 @@
                 "автомобиль", 
                 "мегаполис"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-01 21.18.31-2.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-01 21.18.31-2.jpg", 
             "timestamp": "1398950300", 
             "type": "image"
         }, 
@@ -10181,7 +10181,7 @@
                 "на открытом воздухе", 
                 "группа"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-01 21.18.32.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-01 21.18.32.jpg", 
             "timestamp": "1398950300", 
             "type": "image"
         }, 
@@ -10214,7 +10214,7 @@
                 "дорога", 
                 "музыкант"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-01 21.18.36-1.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-01 21.18.36-1.jpg", 
             "timestamp": "1398950300", 
             "type": "image"
         }, 
@@ -10247,7 +10247,7 @@
                 "поп-музыка", 
                 "панк-рок"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-01 21.18.36-2.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-01 21.18.36-2.jpg", 
             "timestamp": "1398950300", 
             "type": "image"
         }, 
@@ -10280,7 +10280,7 @@
                 "кривая", 
                 "наука"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-01 21.18.38-1.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-01 21.18.38-1.jpg", 
             "timestamp": "1398950300", 
             "type": "image"
         }, 
@@ -10313,7 +10313,7 @@
                 "мужчина", 
                 "быстрый"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-01 21.18.38-2.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-01 21.18.38-2.jpg", 
             "timestamp": "1398950300", 
             "type": "image"
         }, 
@@ -10346,7 +10346,7 @@
                 "гитара", 
                 "песня"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-01 21.36.03-1.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-01 21.36.03-1.jpg", 
             "timestamp": "1398951358", 
             "type": "image"
         }, 
@@ -10379,7 +10379,7 @@
                 "развлечение", 
                 "женщина"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-01 21.36.03-2.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-01 21.36.03-2.jpg", 
             "timestamp": "1398951358", 
             "type": "image"
         }, 
@@ -10412,7 +10412,7 @@
                 "женщина", 
                 "кабаре"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-01 21.36.04.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-01 21.36.04.jpg", 
             "timestamp": "1398951358", 
             "type": "image"
         }, 
@@ -10445,7 +10445,7 @@
                 "кабаре", 
                 "танец"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-01 21.36.05.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-01 21.36.05.jpg", 
             "timestamp": "1398951358", 
             "type": "image"
         }, 
@@ -10478,7 +10478,7 @@
                 "транспортное средство", 
                 "одежда"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-01 21.51.51.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-01 21.51.51.jpg", 
             "timestamp": "1398952292", 
             "type": "image"
         }, 
@@ -10511,7 +10511,7 @@
                 "концерт", 
                 "улица"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-01 21.53.36.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-01 21.53.36.jpg", 
             "timestamp": "1398952395", 
             "type": "image"
         }, 
@@ -10544,7 +10544,7 @@
                 "пейзаж", 
                 "буря"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-01 21.55.18.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-01 21.55.18.jpg", 
             "timestamp": "1398952510", 
             "type": "image"
         }, 
@@ -10577,7 +10577,7 @@
                 "улица", 
                 "пейзаж"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-01 21.55.27.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-01 21.55.27.jpg", 
             "timestamp": "1398952510", 
             "type": "image"
         }, 
@@ -10610,7 +10610,7 @@
                 "мужчина", 
                 "бе́дствие"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-01 21.55.40.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-01 21.55.40.jpg", 
             "timestamp": "1398952535", 
             "type": "image"
         }, 
@@ -10643,7 +10643,7 @@
                 "Выражение лица", 
                 "пара"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-01 22.00.44.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-01 22.00.44.jpg", 
             "timestamp": "1398952825", 
             "type": "image"
         }, 
@@ -10676,7 +10676,7 @@
                 "пейзаж", 
                 "группа"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-01 22.00.56.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-01 22.00.56.jpg", 
             "timestamp": "1398952825", 
             "type": "image"
         }, 
@@ -10709,7 +10709,7 @@
                 "люминесценция", 
                 "дизайн (оформление)"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-01 22.03.46.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-01 22.03.46.jpg", 
             "timestamp": "1398953009", 
             "type": "image"
         }, 
@@ -10742,7 +10742,7 @@
                 "пара", 
                 "легкий"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-04 01.42.23.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-04 01.42.23.jpg", 
             "timestamp": "1399138938", 
             "type": "image"
         }, 
@@ -10775,7 +10775,7 @@
                 "календарь", 
                 "Часы"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-04 12.43.25.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-04 12.43.25.jpg", 
             "timestamp": "1399178600", 
             "type": "image"
         }, 
@@ -10808,7 +10808,7 @@
                 "рукопись", 
                 "годовой"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-04 12.43.34.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-04 12.43.34.jpg", 
             "timestamp": "1399178600", 
             "type": "image"
         }, 
@@ -10841,7 +10841,7 @@
                 "ретро", 
                 "старый"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-04 12.43.46.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-04 12.43.46.jpg", 
             "timestamp": "1399178600", 
             "type": "image"
         }, 
@@ -10874,7 +10874,7 @@
                 "ретро", 
                 "математика"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-06 14.25.17.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-06 14.25.17.jpg", 
             "timestamp": "1399357515", 
             "type": "image"
         }, 
@@ -10907,7 +10907,7 @@
                 "хлопок", 
                 "книга"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-06 14.25.25.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-06 14.25.25.jpg", 
             "timestamp": "1399357515", 
             "type": "image"
         }, 
@@ -10940,7 +10940,7 @@
                 "транспортное средство", 
                 "финансы"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-06 16.13.59.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-06 16.13.59.jpg", 
             "timestamp": "1399364033", 
             "type": "image"
         }, 
@@ -10973,7 +10973,7 @@
                 "данные", 
                 "планировщик"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-07 03.01.35.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-07 03.01.35.jpg", 
             "timestamp": "1399402884", 
             "type": "image"
         }, 
@@ -11006,7 +11006,7 @@
                 "здание", 
                 "ретро"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-07 12.07.55.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-07 12.07.55.jpg", 
             "timestamp": "1399435671", 
             "type": "image"
         }, 
@@ -11036,7 +11036,7 @@
                 "празднование", 
                 "люблю"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-10 00.16.37.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-10 00.16.37.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -11066,7 +11066,7 @@
                 "подросток", 
                 "счастье"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-10 00.50.53.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-10 00.50.53.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -11096,7 +11096,7 @@
                 "подросток", 
                 "забава"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-10 00.50.54.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-10 00.50.54.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -11129,7 +11129,7 @@
                 "горизонт", 
                 "современный"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-10 05.43.44.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-10 05.43.44.jpg", 
             "timestamp": "1399671803", 
             "type": "image"
         }, 
@@ -11162,7 +11162,7 @@
                 "индустрия", 
                 "финансовый"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-11 19.08.13.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-11 19.08.13.jpg", 
             "timestamp": "1399806482", 
             "type": "image"
         }, 
@@ -11195,7 +11195,7 @@
                 "фон", 
                 "вектор"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-11 20.23.37.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-11 20.23.37.jpg", 
             "timestamp": "1399811004", 
             "type": "image"
         }, 
@@ -11228,7 +11228,7 @@
                 "рукопись", 
                 "нерезкость"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-12 21.21.09.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-12 21.21.09.jpg", 
             "timestamp": "1399900867", 
             "type": "image"
         }, 
@@ -11261,7 +11261,7 @@
                 "нерезкость", 
                 "университет"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-12 21.21.11.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-12 21.21.11.jpg", 
             "timestamp": "1399900867", 
             "type": "image"
         }, 
@@ -11294,7 +11294,7 @@
                 "семья", 
                 "коммерция"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-12 21.21.12.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-12 21.21.12.jpg", 
             "timestamp": "1399900867", 
             "type": "image"
         }, 
@@ -11327,7 +11327,7 @@
                 "книга", 
                 "образование"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-12 21.21.14.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-12 21.21.14.jpg", 
             "timestamp": "1399900867", 
             "type": "image"
         }, 
@@ -11360,7 +11360,7 @@
                 "грязный", 
                 "один"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-12 21.21.22.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-12 21.21.22.jpg", 
             "timestamp": "1399900867", 
             "type": "image"
         }, 
@@ -11393,7 +11393,7 @@
                 "текст", 
                 "преступление"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-12 21.21.29.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-12 21.21.29.jpg", 
             "timestamp": "1399900867", 
             "type": "image"
         }, 
@@ -11426,7 +11426,7 @@
                 "рукопись", 
                 "комната"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-12 21.21.36.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-12 21.21.36.jpg", 
             "timestamp": "1399900867", 
             "type": "image"
         }, 
@@ -11459,7 +11459,7 @@
                 "календарь", 
                 "дневник"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-12 21.21.44.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-12 21.21.44.jpg", 
             "timestamp": "1399900867", 
             "type": "image"
         }, 
@@ -11492,7 +11492,7 @@
                 "лист", 
                 "календарь"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-12 21.21.49.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-12 21.21.49.jpg", 
             "timestamp": "1399900867", 
             "type": "image"
         }, 
@@ -11525,7 +11525,7 @@
                 "нерезкость", 
                 "Абстрактные"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-12 21.21.56.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-12 21.21.56.jpg", 
             "timestamp": "1399900912", 
             "type": "image"
         }, 
@@ -11558,7 +11558,7 @@
                 "фон", 
                 "письменность"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-12 21.22.02.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-12 21.22.02.jpg", 
             "timestamp": "1399900912", 
             "type": "image"
         }, 
@@ -11591,7 +11591,7 @@
                 "данные", 
                 "дизайн (оформление)"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-12 21.22.08.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-12 21.22.08.jpg", 
             "timestamp": "1399900912", 
             "type": "image"
         }, 
@@ -11624,7 +11624,7 @@
                 "одежда", 
                 "книга"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-12 21.22.14.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-12 21.22.14.jpg", 
             "timestamp": "1399900912", 
             "type": "image"
         }, 
@@ -11657,7 +11657,7 @@
                 "дисплей", 
                 "знак"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-12 21.22.19.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-12 21.22.19.jpg", 
             "timestamp": "1399900912", 
             "type": "image"
         }, 
@@ -11690,7 +11690,7 @@
                 "одежда", 
                 "Абстрактные"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-12 21.22.24.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-12 21.22.24.jpg", 
             "timestamp": "1399900912", 
             "type": "image"
         }, 
@@ -11723,7 +11723,7 @@
                 "Абстрактные", 
                 "ретро"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-12 21.22.29.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-12 21.22.29.jpg", 
             "timestamp": "1399900912", 
             "type": "image"
         }, 
@@ -11756,7 +11756,7 @@
                 "текстура", 
                 "образование"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-12 21.22.34.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-12 21.22.34.jpg", 
             "timestamp": "1399900912", 
             "type": "image"
         }, 
@@ -11789,7 +11789,7 @@
                 "данные", 
                 "книга"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-12 21.22.40.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-12 21.22.40.jpg", 
             "timestamp": "1399900912", 
             "type": "image"
         }, 
@@ -11822,7 +11822,7 @@
                 "тетрадь", 
                 "старый"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-12 21.22.46.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-12 21.22.46.jpg", 
             "timestamp": "1399900912", 
             "type": "image"
         }, 
@@ -11855,7 +11855,7 @@
                 "письменность", 
                 "одежда"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-12 21.22.51.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-12 21.22.51.jpg", 
             "timestamp": "1399900912", 
             "type": "image"
         }, 
@@ -11888,7 +11888,7 @@
                 "число", 
                 "наука"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-12 21.22.57.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-12 21.22.57.jpg", 
             "timestamp": "1399900974", 
             "type": "image"
         }, 
@@ -11921,7 +11921,7 @@
                 "письменность", 
                 "старый"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-12 21.23.02.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-12 21.23.02.jpg", 
             "timestamp": "1399900974", 
             "type": "image"
         }, 
@@ -11954,7 +11954,7 @@
                 "дневник", 
                 "сезон сбора винограда"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-12 21.23.07.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-12 21.23.07.jpg", 
             "timestamp": "1399900974", 
             "type": "image"
         }, 
@@ -11987,7 +11987,7 @@
                 "календарь", 
                 "ретро"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-12 21.23.13.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-12 21.23.13.jpg", 
             "timestamp": "1399900974", 
             "type": "image"
         }, 
@@ -12020,7 +12020,7 @@
                 "данные", 
                 "коммерция"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-12 21.23.20.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-12 21.23.20.jpg", 
             "timestamp": "1399900974", 
             "type": "image"
         }, 
@@ -12053,7 +12053,7 @@
                 "Абстрактные", 
                 "старый"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-12 21.23.25.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-12 21.23.25.jpg", 
             "timestamp": "1399901004", 
             "type": "image"
         }, 
@@ -12086,7 +12086,7 @@
                 "Распечатать", 
                 "школа"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-12 21.23.32.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-12 21.23.32.jpg", 
             "timestamp": "1399901004", 
             "type": "image"
         }, 
@@ -12119,7 +12119,7 @@
                 "священное писание", 
                 "фон"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-12 21.23.38.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-12 21.23.38.jpg", 
             "timestamp": "1399901004", 
             "type": "image"
         }, 
@@ -12152,7 +12152,7 @@
                 "святой", 
                 "школа"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-12 21.23.46.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-12 21.23.46.jpg", 
             "timestamp": "1399901004", 
             "type": "image"
         }, 
@@ -12185,7 +12185,7 @@
                 "сезон сбора винограда", 
                 "литература"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-12 21.23.47.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-12 21.23.47.jpg", 
             "timestamp": "1399901004", 
             "type": "image"
         }, 
@@ -12218,7 +12218,7 @@
                 "поэзия", 
                 "старый"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-12 21.23.54.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-12 21.23.54.jpg", 
             "timestamp": "1399901004", 
             "type": "image"
         }, 
@@ -12251,7 +12251,7 @@
                 "пустой", 
                 "вертикальный"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-12 21.23.58.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-12 21.23.58.jpg", 
             "timestamp": "1399901004", 
             "type": "image"
         }, 
@@ -12281,7 +12281,7 @@
                 "телефон", 
                 "девушка"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-13 01.25.13.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-13 01.25.13.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -12314,7 +12314,7 @@
                 "предприятие", 
                 "университет"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-13 17.53.43.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-13 17.53.43.jpg", 
             "timestamp": "1399974821", 
             "type": "image"
         }, 
@@ -12347,7 +12347,7 @@
                 "исследование", 
                 "литература"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-13 17.53.59.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-13 17.53.59.jpg", 
             "timestamp": "1399974821", 
             "type": "image"
         }, 
@@ -12380,7 +12380,7 @@
                 "кабинет", 
                 "старый"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-13 17.54.21.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-13 17.54.21.jpg", 
             "timestamp": "1399974821", 
             "type": "image"
         }, 
@@ -12413,7 +12413,7 @@
                 "исследование", 
                 "старый"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-13 17.54.31.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-13 17.54.31.jpg", 
             "timestamp": "1399974821", 
             "type": "image"
         }, 
@@ -12446,7 +12446,7 @@
                 "исследование", 
                 "данные"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-13 17.54.45.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-13 17.54.45.jpg", 
             "timestamp": "1399974880", 
             "type": "image"
         }, 
@@ -12479,7 +12479,7 @@
                 "рукописный", 
                 "диаграмма"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-16 19.16.12.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-16 19.16.12.jpg", 
             "timestamp": "1400238933", 
             "type": "image"
         }, 
@@ -12512,7 +12512,7 @@
                 "напоминание", 
                 "повестка дня"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-16 19.16.19.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-16 19.16.19.jpg", 
             "timestamp": "1400238933", 
             "type": "image"
         }, 
@@ -12545,7 +12545,7 @@
                 "Часы", 
                 "график"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-16 19.16.24.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-16 19.16.24.jpg", 
             "timestamp": "1400238979", 
             "type": "image"
         }, 
@@ -12578,7 +12578,7 @@
                 "список", 
                 "математика"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-16 19.16.31.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-16 19.16.31.jpg", 
             "timestamp": "1400238979", 
             "type": "image"
         }, 
@@ -12611,7 +12611,7 @@
                 "рукопись", 
                 "дизайн"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-16 19.16.37.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-16 19.16.37.jpg", 
             "timestamp": "1400238979", 
             "type": "image"
         }, 
@@ -12644,7 +12644,7 @@
                 "Часы", 
                 "повестка дня"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-16 19.16.54.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-16 19.16.54.jpg", 
             "timestamp": "1400239010", 
             "type": "image"
         }, 
@@ -12677,7 +12677,7 @@
                 "дизайн", 
                 "Часы"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-16 19.17.00.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-16 19.17.00.jpg", 
             "timestamp": "1400239010", 
             "type": "image"
         }, 
@@ -12710,7 +12710,7 @@
                 "напоминание", 
                 "текст"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-16 19.17.15.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-16 19.17.15.jpg", 
             "timestamp": "1400239010", 
             "type": "image"
         }, 
@@ -12743,7 +12743,7 @@
                 "кардиология", 
                 "эскиз"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-16 19.17.27.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-16 19.17.27.jpg", 
             "timestamp": "1400239039", 
             "type": "image"
         }, 
@@ -12776,7 +12776,7 @@
                 "список", 
                 "Заметка"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-16 19.17.34.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-16 19.17.34.jpg", 
             "timestamp": "1400239039", 
             "type": "image"
         }, 
@@ -12809,7 +12809,7 @@
                 "список", 
                 "наука"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-16 19.17.42.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-16 19.17.42.jpg", 
             "timestamp": "1400239039", 
             "type": "image"
         }, 
@@ -12842,7 +12842,7 @@
                 "документ", 
                 "карандаш"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-16 19.18.04.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-16 19.18.04.jpg", 
             "timestamp": "1400239079", 
             "type": "image"
         }, 
@@ -12875,7 +12875,7 @@
                 "математика", 
                 "исследование"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-16 19.18.13.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-16 19.18.13.jpg", 
             "timestamp": "1400239079", 
             "type": "image"
         }, 
@@ -12908,7 +12908,7 @@
                 "график", 
                 "график"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-16 19.18.28.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-16 19.18.28.jpg", 
             "timestamp": "1400239079", 
             "type": "image"
         }, 
@@ -12941,7 +12941,7 @@
                 "планировщик", 
                 "страница"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-16 19.18.40.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-16 19.18.40.jpg", 
             "timestamp": "1400239109", 
             "type": "image"
         }, 
@@ -12974,7 +12974,7 @@
                 "рукопись", 
                 "планировщик"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-16 19.18.45.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-16 19.18.45.jpg", 
             "timestamp": "1400239109", 
             "type": "image"
         }, 
@@ -13007,7 +13007,7 @@
                 "диагноз", 
                 "график"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-17 00.19.00.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-17 00.19.00.jpg", 
             "timestamp": "1400257115", 
             "type": "image"
         }, 
@@ -13040,7 +13040,7 @@
                 "деньги", 
                 "данные"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-17 00.19.05.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-17 00.19.05.jpg", 
             "timestamp": "1400257115", 
             "type": "image"
         }, 
@@ -13073,7 +13073,7 @@
                 "Абстрактные", 
                 "Часы"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-17 00.19.11.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-17 00.19.11.jpg", 
             "timestamp": "1400257145", 
             "type": "image"
         }, 
@@ -13106,7 +13106,7 @@
                 "дневник", 
                 "диагноз"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-17 00.19.15.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-17 00.19.15.jpg", 
             "timestamp": "1400257145", 
             "type": "image"
         }, 
@@ -13139,7 +13139,7 @@
                 "Распечатать", 
                 "познание"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-17 00.19.21.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-17 00.19.21.jpg", 
             "timestamp": "1400257145", 
             "type": "image"
         }, 
@@ -13172,7 +13172,7 @@
                 "люди", 
                 "Распечатать"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-17 11.10.55.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-17 11.10.55.jpg", 
             "timestamp": "1400296246", 
             "type": "image"
         }, 
@@ -13205,7 +13205,7 @@
                 "напоминание", 
                 "школа"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-17 11.10.56.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-17 11.10.56.jpg", 
             "timestamp": "1400296246", 
             "type": "image"
         }, 
@@ -13238,7 +13238,7 @@
                 "книга", 
                 "пергамент"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-17 11.11.06.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-17 11.11.06.jpg", 
             "timestamp": "1400296246", 
             "type": "image"
         }, 
@@ -13271,7 +13271,7 @@
                 "эскиз", 
                 "коммерция"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-17 11.11.13.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-17 11.11.13.jpg", 
             "timestamp": "1400296246", 
             "type": "image"
         }, 
@@ -13304,7 +13304,7 @@
                 "график", 
                 "древесина"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-17 12.01.21.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-17 12.01.21.jpg", 
             "timestamp": "1400299265", 
             "type": "image"
         }, 
@@ -13337,7 +13337,7 @@
                 "наука", 
                 "дневник"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-17 12.01.57.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-17 12.01.57.jpg", 
             "timestamp": "1400299316", 
             "type": "image"
         }, 
@@ -13370,7 +13370,7 @@
                 "данные", 
                 "диаграмма"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-17 12.15.18.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-17 12.15.18.jpg", 
             "timestamp": "1400300116", 
             "type": "image"
         }, 
@@ -13403,7 +13403,7 @@
                 "тетрадь", 
                 "письменность"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-17 13.30.25.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-17 13.30.25.jpg", 
             "timestamp": "1400304615", 
             "type": "image"
         }, 
@@ -13436,7 +13436,7 @@
                 "письменность", 
                 "сетка"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-17 13.30.29.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-17 13.30.29.jpg", 
             "timestamp": "1400304615", 
             "type": "image"
         }, 
@@ -13469,7 +13469,7 @@
                 "диаграмма", 
                 "письмо"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-17 13.30.33.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-17 13.30.33.jpg", 
             "timestamp": "1400304615", 
             "type": "image"
         }, 
@@ -13502,7 +13502,7 @@
                 "письмо", 
                 "финансы"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-17 14.08.17.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-17 14.08.17.jpg", 
             "timestamp": "1400306885", 
             "type": "image"
         }, 
@@ -13535,7 +13535,7 @@
                 "письменность", 
                 "число"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-17 15.35.01.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-17 15.35.01.jpg", 
             "timestamp": "1400312082", 
             "type": "image"
         }, 
@@ -13568,7 +13568,7 @@
                 "Распечатать", 
                 "алгебра"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-17 16.15.04.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-17 16.15.04.jpg", 
             "timestamp": "1400314494", 
             "type": "image"
         }, 
@@ -13601,7 +13601,7 @@
                 "математика", 
                 "баланс"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-17 16.19.57.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-17 16.19.57.jpg", 
             "timestamp": "1400314795", 
             "type": "image"
         }, 
@@ -13634,7 +13634,7 @@
                 "линия", 
                 "бумага для записей"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-17 16.27.45-1.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-17 16.27.45-1.jpg", 
             "timestamp": "1400315258", 
             "type": "image"
         }, 
@@ -13667,7 +13667,7 @@
                 "фон", 
                 "список"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-17 16.38.17-1.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-17 16.38.17-1.jpg", 
             "timestamp": "1400315869", 
             "type": "image"
         }, 
@@ -13700,7 +13700,7 @@
                 "мазня", 
                 "искусство"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-17 16.55.57-1.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-17 16.55.57-1.jpg", 
             "timestamp": "1400316955", 
             "type": "image"
         }, 
@@ -13733,7 +13733,7 @@
                 "книга", 
                 "люди"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-18 18.34.44.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-18 18.34.44.jpg", 
             "timestamp": "1400409281", 
             "type": "image"
         }, 
@@ -13766,7 +13766,7 @@
                 "финансы", 
                 "число"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-18 18.34.54.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-18 18.34.54.jpg", 
             "timestamp": "1400409281", 
             "type": "image"
         }, 
@@ -13799,7 +13799,7 @@
                 "график", 
                 "наука"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-18 18.35.03.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-18 18.35.03.jpg", 
             "timestamp": "1400409281", 
             "type": "image"
         }, 
@@ -13832,7 +13832,7 @@
                 "дизайн (оформление)", 
                 "дневник"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-18 18.35.11.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-18 18.35.11.jpg", 
             "timestamp": "1400409281", 
             "type": "image"
         }, 
@@ -13865,7 +13865,7 @@
                 "выборы", 
                 "наука"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-20 22.01.26.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-20 22.01.26.jpg", 
             "timestamp": "1400594483", 
             "type": "image"
         }, 
@@ -13898,7 +13898,7 @@
                 "дисплей", 
                 "графический"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-21 00.22.05.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-21 00.22.05.jpg", 
             "timestamp": "1400602923", 
             "type": "image"
         }, 
@@ -13931,7 +13931,7 @@
                 "развлечение", 
                 "окно"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-21 00.22.13.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-21 00.22.13.jpg", 
             "timestamp": "1400602923", 
             "type": "image"
         }, 
@@ -13964,7 +13964,7 @@
                 "связь", 
                 "образование"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-21 00.37.17.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-21 00.37.17.jpg", 
             "timestamp": "1400603834", 
             "type": "image"
         }, 
@@ -13997,7 +13997,7 @@
                 "модель", 
                 "сын"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-21 00.37.25.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-21 00.37.25.jpg", 
             "timestamp": "1400603834", 
             "type": "image"
         }, 
@@ -14030,7 +14030,7 @@
                 "вектор", 
                 "коммуникация"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-21 19.43.46.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-21 19.43.46.jpg", 
             "timestamp": "1400672614", 
             "type": "image"
         }, 
@@ -14063,7 +14063,7 @@
                 "график", 
                 "наука"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-22 00.32.23.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-22 00.32.23.jpg", 
             "timestamp": "1400689936", 
             "type": "image"
         }, 
@@ -14096,7 +14096,7 @@
                 "коммерция", 
                 "внутри"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-23 06.17.12.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-23 06.17.12.jpg", 
             "timestamp": "1400797018", 
             "type": "image"
         }, 
@@ -14126,7 +14126,7 @@
                 "документ", 
                 "люди"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-23 06.33.03.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-23 06.33.03.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -14159,7 +14159,7 @@
                 "карандаш", 
                 "годовой"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-25 17.04.33.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-25 17.04.33.jpg", 
             "timestamp": "1401008658", 
             "type": "image"
         }, 
@@ -14192,7 +14192,7 @@
                 "дневник", 
                 "годовой"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-25 17.04.38.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-25 17.04.38.jpg", 
             "timestamp": "1401008658", 
             "type": "image"
         }, 
@@ -14225,7 +14225,7 @@
                 "годовой", 
                 "математика"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-25 17.04.44.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-25 17.04.44.jpg", 
             "timestamp": "1401008658", 
             "type": "image"
         }, 
@@ -14258,7 +14258,7 @@
                 "нет человек", 
                 "деньги"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-25 17.04.48.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-25 17.04.48.jpg", 
             "timestamp": "1401008658", 
             "type": "image"
         }, 
@@ -14291,7 +14291,7 @@
                 "повестка дня", 
                 "линия"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-25 17.04.53.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-25 17.04.53.jpg", 
             "timestamp": "1401008658", 
             "type": "image"
         }, 
@@ -14324,7 +14324,7 @@
                 "число", 
                 "деньги"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-25 17.04.57-1.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-25 17.04.57-1.jpg", 
             "timestamp": "1401008658", 
             "type": "image"
         }, 
@@ -14357,7 +14357,7 @@
                 "линия", 
                 "фон"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-25 17.05.02.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-25 17.05.02.jpg", 
             "timestamp": "1401008695", 
             "type": "image"
         }, 
@@ -14390,7 +14390,7 @@
                 "нет человек", 
                 "календарь"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-25 17.05.07.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-25 17.05.07.jpg", 
             "timestamp": "1401008695", 
             "type": "image"
         }, 
@@ -14423,7 +14423,7 @@
                 "рукопись", 
                 "наука"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-25 17.05.12.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-25 17.05.12.jpg", 
             "timestamp": "1401008695", 
             "type": "image"
         }, 
@@ -14456,7 +14456,7 @@
                 "карандаш", 
                 "кардиология"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-25 17.05.16.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-25 17.05.16.jpg", 
             "timestamp": "1401008695", 
             "type": "image"
         }, 
@@ -14489,7 +14489,7 @@
                 "математика", 
                 "страница"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-25 17.05.21.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-25 17.05.21.jpg", 
             "timestamp": "1401008695", 
             "type": "image"
         }, 
@@ -14522,7 +14522,7 @@
                 "эскиз", 
                 "напоминание"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-25 17.05.27.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-25 17.05.27.jpg", 
             "timestamp": "1401008695", 
             "type": "image"
         }, 
@@ -14555,7 +14555,7 @@
                 "боковой вид", 
                 "гостиница"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-25 23.29.14.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-25 23.29.14.jpg", 
             "timestamp": "1401031721", 
             "type": "image"
         }, 
@@ -14588,7 +14588,7 @@
                 "здравоохранение", 
                 "два"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-25 23.29.15.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-25 23.29.15.jpg", 
             "timestamp": "1401031754", 
             "type": "image"
         }, 
@@ -14621,7 +14621,7 @@
                 "сон", 
                 "ребенок"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-25 23.29.17.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-25 23.29.17.jpg", 
             "timestamp": "1401031754", 
             "type": "image"
         }, 
@@ -14654,7 +14654,7 @@
                 "портрет", 
                 "преступление"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-25 23.29.22-1.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-25 23.29.22-1.jpg", 
             "timestamp": "1401031754", 
             "type": "image"
         }, 
@@ -14687,7 +14687,7 @@
                 "школа", 
                 "группа (абстракция)"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-25 23.29.22-2.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-25 23.29.22-2.jpg", 
             "timestamp": "1401031754", 
             "type": "image"
         }, 
@@ -14720,7 +14720,7 @@
                 "образование", 
                 "портрет"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-25 23.29.31.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-25 23.29.31.jpg", 
             "timestamp": "1401031769", 
             "type": "image"
         }, 
@@ -14753,7 +14753,7 @@
                 "музыка", 
                 "на открытом воздухе"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-25 23.29.33.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-25 23.29.33.jpg", 
             "timestamp": "1401031769", 
             "type": "image"
         }, 
@@ -14786,7 +14786,7 @@
                 "телефон", 
                 "лекарство"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-26 04.03.44.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-26 04.03.44.jpg", 
             "timestamp": "1401048215", 
             "type": "image"
         }, 
@@ -14819,7 +14819,7 @@
                 "портрет", 
                 "концентрация"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-29 03.39.04.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-29 03.39.04.jpg", 
             "timestamp": "1401305925", 
             "type": "image"
         }, 
@@ -14852,7 +14852,7 @@
                 "преступление", 
                 "кровать"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-29 03.39.06.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-29 03.39.06.jpg", 
             "timestamp": "1401305925", 
             "type": "image"
         }, 
@@ -14885,7 +14885,7 @@
                 "всемирная паутина", 
                 "расположение"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-29 06.51.50.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-29 06.51.50.jpg", 
             "timestamp": "1401317497", 
             "type": "image"
         }, 
@@ -14918,7 +14918,7 @@
                 "митинг", 
                 "спортивный фанат"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-31 19.31.09.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-31 19.31.09.jpg", 
             "timestamp": "1401535820", 
             "type": "image"
         }, 
@@ -14948,7 +14948,7 @@
                 "церемония", 
                 "музыкант"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-31 19.35.47.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-31 19.35.47.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -14981,7 +14981,7 @@
                 "музыкант", 
                 "спортивный фанат"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-31 19.35.48-1.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-31 19.35.48-1.jpg", 
             "timestamp": "1401536147", 
             "type": "image"
         }, 
@@ -15014,7 +15014,7 @@
                 "митинг", 
                 "флаг"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-31 19.35.48-2.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-31 19.35.48-2.jpg", 
             "timestamp": "1401536147", 
             "type": "image"
         }, 
@@ -15047,7 +15047,7 @@
                 "церемония", 
                 "зритель"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-31 19.35.51.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-31 19.35.51.jpg", 
             "timestamp": "1401536147", 
             "type": "image"
         }, 
@@ -15080,7 +15080,7 @@
                 "ралли", 
                 "флаг"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-31 19.35.53.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-31 19.35.53.jpg", 
             "timestamp": "1401536147", 
             "type": "image"
         }, 
@@ -15113,7 +15113,7 @@
                 "флаг", 
                 "церемония"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-31 19.35.54.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-31 19.35.54.jpg", 
             "timestamp": "1401536147", 
             "type": "image"
         }, 
@@ -15146,7 +15146,7 @@
                 "мегаполис", 
                 "празднование"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-31 19.35.56.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-31 19.35.56.jpg", 
             "timestamp": "1401536147", 
             "type": "image"
         }, 
@@ -15179,7 +15179,7 @@
                 "мегаполис", 
                 "флаг"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-31 20.01.03.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-31 20.01.03.jpg", 
             "timestamp": "1401537663", 
             "type": "image"
         }, 
@@ -15212,7 +15212,7 @@
                 "церемония", 
                 "футбол"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-31 20.01.05.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-31 20.01.05.jpg", 
             "timestamp": "1401537663", 
             "type": "image"
         }, 
@@ -15242,7 +15242,7 @@
                 "мяч", 
                 "группа (абстракция)"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-05-31 22.21.45.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-05-31 22.21.45.jpg", 
             "timestamp": null, 
             "type": "image"
         }, 
@@ -15275,7 +15275,7 @@
                 "легкий", 
                 "ралли"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-06-01 04.08.19.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-06-01 04.08.19.jpg", 
             "timestamp": "1401566894", 
             "type": "image"
         }, 
@@ -15308,7 +15308,7 @@
                 "девушка", 
                 "счастье"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-06-01 04.19.14.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-06-01 04.19.14.jpg", 
             "timestamp": "1401567544", 
             "type": "image"
         }, 
@@ -15341,7 +15341,7 @@
                 "пейзаж", 
                 "образование"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-06-01 04.19.27.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-06-01 04.19.27.jpg", 
             "timestamp": "1401567554", 
             "type": "image"
         }, 
@@ -15374,7 +15374,7 @@
                 "спорт", 
                 "группировать"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_2014-06-01 04.19.31.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_2014-06-01 04.19.31.jpg", 
             "timestamp": "1401567554", 
             "type": "image"
         }, 
@@ -15404,7 +15404,7 @@
                 "мяч", 
                 "группа (абстракция)"
             ], 
-            "thumbnail": "/images/thumbnails/thumbnail_50_50_VIDEO0022_0000061438.jpg", 
+            "thumbnail": "images/thumbnails/thumbnail_50_50_VIDEO0022_0000061438.jpg", 
             "timestamp": null, 
             "type": "image"
         }
