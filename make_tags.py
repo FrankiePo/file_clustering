@@ -1,10 +1,18 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 from clarifai.rest import ClarifaiApp
 
-app = ClarifaiApp()
+from pprint import pprint
+client_id = "28c115mfoLfciPM973D-sJTCKlUcoVF7GmnAoSWd"
+client_secret = "-ZOZuUVzCwdfaciC1kPy9ydKwNmK0mlCv0mprO0r"
+app = ClarifaiApp(client_id, client_secret)
 
-#app.inputs.create_image_from_url(url='https://samples.clarifai.com/puppy.jpeg', concepts=['my puppy'])
-#app.inputs.create_image_from_url(url='https://samples.clarifai.com/wedding.jpg', not_concepts=['my puppy'])
-model = app.models.create(model_id="qw1e", concepts=["my puppy"])
-model.train()
-model = app.models.get('qwe')
-model.predict_by_url('https://samples.clarifai.com/metro-north.jpg')
+# get the general model
+model = app.models.get("general-v1.3")
+
+# predict with the model
+cl = model.predict_by_filename("/Users/frankiepo/Projects/file_clustering/src/images/htc_one/2013-07-14 19.00.44.jpg", lang="ru")
+tag_list = map(lambda item: item['name'], cl['outputs'][0]['data']['concepts'])
+
+print tag_list
