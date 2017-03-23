@@ -3,7 +3,7 @@
  */
 (function(angular) {
     "use strict";
-    const app = angular.module('FileClustering', ['ngMap']);
+    const app = angular.module('FileClustering', ['ngMap', 'smart-table']);
     app.factory('Items', ['$http', function($http) {
         const request = $http.get('photos.json');
         return {
