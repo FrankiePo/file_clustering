@@ -45,5 +45,7 @@
                     mc.fitMapToMarkers();
                 });
             });
+            $scope.tableRows = 5;
+            $scope.setTableRows = (x) => $scope.tableRows = x;
         }]);
 }) (angular);
