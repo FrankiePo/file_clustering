@@ -156,7 +156,7 @@ res_json = {
 
 i = 0
 homedir = "/Users/frankiepo/Projects/file_clustering/src"
-for root, dirs, files in os.walk(homedir + "/images/htc_one/"):
+for root, dirs, files in os.walk(homedir + "/images/downloaded_images/"):
     # for i in range(8147):
     # for i in range(57):
     for file in files:
@@ -164,28 +164,42 @@ for root, dirs, files in os.walk(homedir + "/images/htc_one/"):
         # image = get_image('/Users/frankiepo/Projects/file_clustering/images_2016_08/validation/downloaded_images/{}.jpg'.format(i))
         image = get_image(filepath)
         if image:
-            altitude = None
-            timestamp = None
-            lat_lng = None
-            exif_data = get_exif_data(image)
-            if exif_data:
-                timestamp = get_timestamp(exif_data)
-                lat_lng = get_lat_lon(exif_data)
-                altitude = get_altitude(exif_data)
-            image.thumbnail((50, 50), Image.ANTIALIAS)
-            thumbnail_path = "/images/thumbnails/thumbnail_50_50_%s" % (file)
-            image.save(homedir + thumbnail_path)
-            data = {
-                'file': file,
-                'type': 'image',
-                'geo': lat_lng,
-                'timestamp': timestamp,
-                'altitude': altitude,
-                'tags': get_tags(filepath),
-                'thumbnail': thumbnail_path,
-            }
-            res_json['items'].append(data)
-            i += 1
-            print i
-            with io.open('photos.json', 'w', encoding='utf-8') as f:
-                f.write(json.dumps(res_json, ensure_ascii=False, indent=4, sort_keys=True))
+            try:
+                altitude = None
+                timestamp = None
+                lat_lng = None
+                exif_data = get_exif_data(image)
+                if exif_data:
+                    timestamp = get_timestamp(exif_data)
+                    lat_lng = get_lat_lon(exif_data)
+                    altitude = get_altitude(exif_data)
+                if lat_lng is None:
+                    continue
+                if lat_lng[0] == 0.0:
+                    continue
+                print lat_lng
+                image.thumbnail((500, 500), Image.ANTIALIAS)
+                image.save(homedir + "/images/saved_img/%s" % (file))
+                image.thumbnail((50, 50), Image.ANTIALIAS)
+                thumbnail_path = "/images/new_thumbnails/%s" % (file)
+                image.save(homedir + thumbnail_path)
+                data = {
+                    'file': file,
+                    'type': 'image',
+                    'geo': lat_lng,
+                    'timestamp': timestamp,
+                    'altitude': altitude,
+                    'tags': get_tags(filepath),
+                    'thumbnail': thumbnail_path,
+                }
+                res_json['items'].append(data)
+
+                with io.open('photos.json', 'w', encoding='utf-8') as f:
+                    f.write(json.dumps(res_json, ensure_ascii=False, indent=4, sort_keys=True))
+
+                i += 1
+                if i == 200:
+                    break
+                print i
+            except Exception, e:
+                print Exception, e, filepath
